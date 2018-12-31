@@ -62,8 +62,25 @@ for air_key in airports:
             airports[air_key]['hike_lat']=hikes[hike_key]['lat']
             airports[air_key]['hike_lon']=hikes[hike_key]['lon']
 
+for hike_key in hikes:
+    hikes[hike_key]['distance_to_airport']=99999
+    hikes[hike_key]['closest_airport']='none'
+    hikes[hike_key]['airport_lat']=0
+    hikes[hike_key]['airport_lon']=0
+    for air_key in airports:
+        distance_to_airport=Haversine([float(airports[air_key]['lon']),float(airports[air_key]['lat'])],[float(hikes[hike_key]['lon']),float(hikes[hike_key]['lat'])]).miles
+        if distance_to_airport < hikes[hike_key]['distance_to_airport'] :
+            hikes[hike_key]['distance_to_airport']=distance_to_airport
+            hikes[hike_key]['closest_airport']=air_key
+            hikes[hike_key]['airport_lat']=airports[air_key]['lat']
+            hikes[hike_key]['airport_lon']=airports[air_key]['lon']
+
+
 with open('airport_hikes.json','wb') as outfile:
     json.dump(airports,outfile)
+
+with open('hike_flights.json','wb') as outfile:
+    json.dump(hikes,outfile)
 
 
 
