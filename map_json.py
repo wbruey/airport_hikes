@@ -23,8 +23,13 @@ os.system('cp leaflet_map_template.html newest_map.html')
 time.sleep(2)
 
 with open("newest_map.html", "ab") as myfile:
-    myfile.write(marker_text(40.11,-76.302,'hey','you'))
-    myfile.write(circle_text(40.11,-76.302,'hey','jew'))
+    
+    for air_key in airports:
+        myfile.write(marker_text(airports[air_key]['lat'],airports[air_key]['lon'],air_key,'Fly Me Will!'))
+
+    for hike_key in hikes:
+        myfile.write(circle_text(hikes[hike_key]['lat'],hikes[hike_key]['lon'],hike_key,'Hike Me Reb!'))
+
     myfile.write('</script> </body> </html>')
 
 
