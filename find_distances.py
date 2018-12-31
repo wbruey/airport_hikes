@@ -2,7 +2,7 @@ import unirest
 import json
 import csv
 import math
-
+import numpy
 
 def conversion(old):
     direction = {'N':1, 'S':-1, 'E': 1, 'W':-1}
@@ -83,7 +83,36 @@ with open('hike_flights.json','wb') as outfile:
     json.dump(hikes,outfile)
 
 
+#now find the closest hikes and airports.
+distances_list=[]
+airports_list=[]
+hikes_list=[]
+for air_key in airports:
+    airports_list.append(air_key)
+    distances_list.append(float(airports[air_key]['distance_to_hike']))
+    hikes_list.append(airports[air_key]['closest_hike'])
 
-    
+closest_hikes=numpy.argsort(distances_list)
+great_trips={}
+great_airports={}
+great_hikes={}
+for i in range(50):
+    distance=distances_list[closest_hikes[i]]
+    airport=airports_list[closest_hikes[i]]
+    hike=hikes_list[closest_hikes[i]]
+    great_trips[i]={}
+    great_trips[i]['airport']=airport
+    great_trips[i]['distance']=distance
+    great_trips[i]['hike']=hike
+    great_airports[airport]=airports[airport]
+    great_hikes[hike]=hikes[hike]
 
+with open('great_trips.json','wb') as outfile:
+    json.dump(great_trips,outfile)
+
+with open('great_airport_hikes.json','wb') as outfile:
+    json.dump(great_airports,outfile)
+
+with open('great_hike_flights.json','wb') as outfile:
+    json.dump(great_hikes,outfile)
 

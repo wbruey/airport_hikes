@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+        <title>Airport Hikes</title>
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+
+
+
+</head>
+<body>
+
+
+
+<div id="mapid" style="width: 100%; height: 800px;"></div>
+<script>
+
+        var mymap = L.map('mapid').setView([40.8761, -74.28196], 13);
+
+        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+                maxZoom: 18,
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+                        '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+                        'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                id: 'mapbox.streets'
+        }).addTo(mymap);
+
+
+
+
+
+L.circle([40.63992575, -73.7786949722], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>JFK</b><br />Closest Hike: Bayswater Point State Park");
+L.circle([41.2973074444, -75.8522405278], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>WBW</b><br />Closest Hike: Pittston City Rail Trail");
+L.circle([41.2002066667, -74.6230505556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>FWN</b><br />Closest Hike: WoodDuckNatureTrail");
+L.circle([40.5702777778, -75.4883055556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>XLL</b><br />Closest Hike: Little Lehigh Parkway");
+L.circle([42.3280097222, -72.6112402778], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>7B2</b><br />Closest Hike: Norwottuck Rail Trail");
+L.circle([42.3563888889, -72.1300833333], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>8B5</b><br />Closest Hike: Corridor 71 New Braintree");
+L.circle([40.1375555556, -75.2651388889], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>LOM</b><br />Closest Hike: Fort Washington State Park");
+L.circle([42.1579444444, -72.7158611111], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>BAF</b><br />Closest Hike: Hampton Ponds State Park");
+L.circle([41.3715277778, -73.4821944444], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>DXR</b><br />Closest Hike: Wooster Mountain State Park");
+L.circle([40.4842697222, -75.0996161111], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>9N1</b><br />Closest Hike: Tinicum Park");
+L.circle([40.3891944444, -75.2904722222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>CKZ</b><br />Closest Hike: Branch Creek");
+L.circle([41.9161944444, -72.7769444444], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>4B9</b><br />Closest Hike: RootDown");
+L.circle([42.1940149722, -72.5347843056], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>CEF</b><br />Closest Hike: Chicopee Memorial State Park");
+L.circle([39.5013236111, -76.4113347222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>W42</b><br />Closest Hike: PleasantvilleAreaLoop");
+L.circle([40.8278763889, -72.7487108333], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>1N2</b><br />Closest Hike: Eastport");
+L.circle([41.6334302778, -73.0467738889], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>N41</b><br />Closest Hike: Hancock Brook Lake");
+L.circle([40.7375305556, -75.7054166667], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>P91</b><br />Closest Hike: ATBlueMountainEagleClimbingClubPA");
+L.circle([41.5971388889, -74.4583055556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>N82</b><br />Closest Hike: MineTrail");
+L.circle([41.6241666667, -74.1416666667], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>N45</b><br />Closest Hike: WallkillValleyRailTrail");
+L.circle([41.0086197222, -74.7380338889], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>12N</b><br />Closest Hike: Kittatinny Valley State Park");
+L.circle([39.0128888889, -75.5339722222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>0N6</b><br />Closest Hike: Killens Pond State Park");
+L.circle([40.8917519444, -76.7788533333], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>71N</b><br />Closest Hike: Shikellamy State Park");
+L.circle([41.7074166667, -73.7380277778], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>44N</b><br />Closest Hike: Timbuktu");
+L.circle([42.1011111111, -72.0388333333], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>3B0</b><br />Closest Hike: Westville Lake");
+L.circle([40.8442875, -75.6353541667], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>14N</b><br />Closest Hike: Beltzville");
+L.circle([39.3678055556, -75.0722222222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>MIV</b><br />Closest Hike: The bluffs");
+L.circle([40.5875738889, -75.0194205556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>N85</b><br />Closest Hike: Alexandria Pump Track");
+L.circle([41.3300555556, -72.0451388889], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>GON</b><br />Closest Hike: Bluff Point State Park");
+L.circle([41.1283888889, -74.3465277778], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>4N1</b><br />Closest Hike: Jungle Habitat");
+L.circle([39.2191388889, -74.79475], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>OBI</b><br />Closest Hike: Mount Pleasant State Off-Road Vehicle Park");
+L.circle([41.0766666667, -71.9204722222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>MTP</b><br />Closest Hike: Montauk County Park");
+L.circle([41.4456544444, -72.4556425], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>42B</b><br />Closest Hike: Eagle Landing State Park");
+L.circle([42.6962538056, -73.1705530556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>AQW</b><br />Closest Hike: Appalachian Trail 132: MA 2 to VT/MA Line");
+L.circle([40.1867777778, -74.1245555556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>BLM</b><br />Closest Hike: Allaire State Park");
+L.circle([40.8219444444, -72.8669166667], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>HWV</b><br />Closest Hike: Southaven County Park");
+L.circle([40.7584313889, -73.0537208333], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>23N</b><br />Closest Hike: Sans Souci County Park");
+L.circle([40.2040483333, -75.4302630556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>N10</b><br />Closest Hike: SkippackVillageTrail");
+L.circle([40.8200991667, -74.8551672222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>N05</b><br />Closest Hike: WaterfallTrailBlue");
+L.circle([40.7635940556, -75.6048524167], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>69N</b><br />Closest Hike: ATPhiladelphiaTrailClubPA");
+L.circle([41.478282, -73.1351866944], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>OXC</b><br />Closest Hike: Larkin State Park Trail");
+L.circle([40.8248208333, -72.7509330556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>49N</b><br />Closest Hike: Eastport");
+L.circle([41.3837094444, -72.5057872222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>SNC</b><br />Closest Hike: Cockaponset State Forest");
+L.circle([41.2637494444, -72.8868005556], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>HVN</b><br />Closest Hike: Farm River State Park");
+L.circle([40.9594166667, -72.2516666667], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>HTO</b><br />Closest Hike: NorthwestPath");
+L.circle([39.8720833333, -75.2406611111], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>PHL</b><br />Closest Hike: John Heinz Wildlife Preserve");
+L.circle([42.4276201111, -73.2908398056], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>PSF</b><br />Closest Hike: Bousquet Ski Area");
+L.circle([40.9660555556, -74.7816666667], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>13N</b><br />Closest Hike: LumpyBumpy");
+L.circle([42.5247777778, -75.0644722222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>N66</b><br />Closest Hike: Robert V. Riddell State Park");
+L.circle([41.7440277778, -72.1802222222], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>IJD</b><br />Closest Hike: Mansfield Hollow State Park");
+L.circle([39.6654541667, -74.3080444444], 700, { color: 'blue',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>31E</b><br />Closest Hike: Bass River State Forest");
+L.circle([41.626424, -73.029368], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Hancock Brook Lake</b><br />Hike me Reb! And fly in via N41");
+L.circle([40.8141, -74.8187], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>WaterfallTrailBlue</b><br />Hike me Reb! And fly in via N05");
+L.circle([41.6467, -74.1645], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>WallkillValleyRailTrail</b><br />Hike me Reb! And fly in via N45");
+L.circle([42.180267, -72.534107], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Chicopee Memorial State Park</b><br />Hike me Reb! And fly in via CEF");
+L.circle([41.768054, -72.167423], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Mansfield Hollow State Park</b><br />Hike me Reb! And fly in via IJD");
+L.circle([40.58787, -75.05666], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Alexandria Pump Track</b><br />Hike me Reb! And fly in via N85");
+L.circle([40.2103, -75.4138], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>SkippackVillageTrail</b><br />Hike me Reb! And fly in via N10");
+L.circle([40.864653, -75.636637], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Beltzville</b><br />Hike me Reb! And fly in via 14N");
+L.circle([42.077151, -72.061209], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Westville Lake</b><br />Hike me Reb! And fly in via 3B0");
+L.circle([40.58796, -75.48842], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Little Lehigh Parkway</b><br />Hike me Reb! And fly in via XLL");
+L.circle([41.1938, -74.5856], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>WoodDuckNatureTrail</b><br />Hike me Reb! And fly in via FWN");
+L.circle([40.500661, -75.072676], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Tinicum Park</b><br />Hike me Reb! And fly in via 9N1");
+L.circle([42.178077, -72.694726], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Hampton Ponds State Park</b><br />Hike me Reb! And fly in via BAF");
+L.circle([39.5069, -76.429], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>PleasantvilleAreaLoop</b><br />Hike me Reb! And fly in via W42");
+L.circle([41.12952, -74.34138], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Jungle Habitat</b><br />Hike me Reb! And fly in via 4N1");
+L.circle([39.241781, -74.815167], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Mount Pleasant State Off-Road Vehicle Park</b><br />Hike me Reb! And fly in via OBI");
+L.circle([41.350218, -73.469608], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Wooster Mountain State Park</b><br />Hike me Reb! And fly in via DXR");
+L.circle([40.84911, -72.73375], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Eastport</b><br />Hike me Reb! And fly in via 1N2");
+L.circle([41.9131, -72.7621], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>RootDown</b><br />Hike me Reb! And fly in via 4B9");
+L.circle([40.12002, -75.234131], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Fort Washington State Park</b><br />Hike me Reb! And fly in via LOM");
+L.circle([42.699947, -73.155812], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Appalachian Trail 132: MA 2 to VT/MA Line</b><br />Hike me Reb! And fly in via AQW");
+L.circle([40.811217, -72.90597], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Southaven County Park</b><br />Hike me Reb! And fly in via HWV");
+L.circle([42.530633, -75.089608], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Robert V. Riddell State Park</b><br />Hike me Reb! And fly in via N66");
+L.circle([39.648476, -74.329116], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Bass River State Forest</b><br />Hike me Reb! And fly in via 31E");
+L.circle([40.7812, -75.6087], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>ATPhiladelphiaTrailClubPA</b><br />Hike me Reb! And fly in via 69N");
+L.circle([42.31394, -72.63746], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Norwottuck Rail Trail</b><br />Hike me Reb! And fly in via 7B2");
+L.circle([40.157406, -74.119678], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Allaire State Park</b><br />Hike me Reb! And fly in via BLM");
+L.circle([39.35329, -75.0364], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>The bluffs</b><br />Hike me Reb! And fly in via MIV");
+L.circle([40.612806, -73.769901], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Bayswater Point State Park</b><br />Hike me Reb! And fly in via JFK");
+L.circle([41.7337, -73.7611], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Timbuktu</b><br />Hike me Reb! And fly in via 44N");
+L.circle([39.89146, -75.25742], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>John Heinz Wildlife Preserve</b><br />Hike me Reb! And fly in via PHL");
+L.circle([38.983105, -75.538329], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Killens Pond State Park</b><br />Hike me Reb! And fly in via 0N6");
+L.circle([40.9438, -74.76], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>LumpyBumpy</b><br />Hike me Reb! And fly in via 13N");
+L.circle([41.402332, -72.521979], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Cockaponset State Forest</b><br />Hike me Reb! And fly in via SNC");
+L.circle([40.737666, -73.070382], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Sans Souci County Park</b><br />Hike me Reb! And fly in via 23N");
+L.circle([41.01454, -74.744417], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Kittatinny Valley State Park</b><br />Hike me Reb! And fly in via 12N");
+L.circle([40.9801, -72.2492], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>NorthwestPath</b><br />Hike me Reb! And fly in via HTO");
+L.circle([40.7444, -75.7383], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>ATBlueMountainEagleClimbingClubPA</b><br />Hike me Reb! And fly in via P91");
+L.circle([41.31011, -75.8148], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Pittston City Rail Trail</b><br />Hike me Reb! And fly in via WBW");
+L.circle([41.471844, -73.160791], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Larkin State Park Trail</b><br />Hike me Reb! And fly in via OXC");
+L.circle([41.450476, -72.466911], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Eagle Landing State Park</b><br />Hike me Reb! And fly in via 42B");
+L.circle([41.341468, -72.03314], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Bluff Point State Park</b><br />Hike me Reb! And fly in via GON");
+L.circle([41.5912, -74.4525], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>MineTrail</b><br />Hike me Reb! And fly in via N82");
+L.circle([42.34136, -72.15258], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Corridor 71 New Braintree</b><br />Hike me Reb! And fly in via 8B5");
+L.circle([41.074615, -71.902219], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Montauk County Park</b><br />Hike me Reb! And fly in via MTP");
+L.circle([42.419583, -73.276885], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Bousquet Ski Area</b><br />Hike me Reb! And fly in via PSF");
+L.circle([40.37337, -75.28356], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Branch Creek</b><br />Hike me Reb! And fly in via CKZ");
+L.circle([41.260719, -72.858027], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Farm River State Park</b><br />Hike me Reb! And fly in via HVN");
+L.circle([40.879195, -76.778562], 700, { color: 'red',  fillColor: '#f03', fillOpacity: 0.2 }).addTo(mymap).bindPopup("<b>Shikellamy State Park</b><br />Hike me Reb! And fly in via 71N");
+</script> </body> </html>

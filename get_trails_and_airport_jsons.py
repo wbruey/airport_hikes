@@ -2,7 +2,7 @@ import unirest
 import json
 import csv
 import math
-
+import re
 
 def lat_lon_conversion(old):
     direction = {'N':1, 'S':-1, 'E': 1, 'W':-1}
@@ -44,32 +44,51 @@ class Haversine:
 
 
 
+# COMMENT THIS OUT IF YOU DONT WANT TO PULL FROM API
+#unirest.timeout(60)
+#response = unirest.get("https://trailapi-trailapi.p.mashape.com/?lat=40.873877&limit=1000&lon=-74.279662&radius=150", headers={ "X-Mashape-Key": "k8l37AXNLImshC2h3TOTpWnW1Dhkp1tBNcRjsn6CRntn6oLBsd" })
+#raw_hikes=json.loads(response.raw_body)
+#with open('raw_hikes.json','wb') as outfile:
+#    json.dump(raw_hikes,outfile)
 
-response = unirest.get("https://trailapi-trailapi.p.mashape.com/?lat=40.873877&limit=100&lon=-74.279662&radius=150", headers={ "X-Mashape-Key": "k8l37AXNLImshC2h3TOTpWnW1Dhkp1tBNcRjsn6CRntn6oLBsd" })
+# also get more hikes from the hiking project at this site
+#https://www.hikingproject.com/data/get-trails?lat=42.654968&lon=-73.7559&maxDistance=70&maxResults=500&key=200403067-c85119606e5d3affb6054bcb6852fde2
 
-#print(response)
-#print(type(response))
-
-#with open('trail_api_dump.json') as outfile:
-#    json.dump(response,outfile)
-
-
-#with open('fun.json') as json_file:
-
-#    data = json.load(json_file)
+########################################
 
 
+with open('raw_hikes.json') as json_file:
+    raw_hikes=json.load(json_file)
 
-raw_hikes=json.loads(response.raw_body)
+with open('tons_closest_hiking_project.json') as json_file:
+    raw_hikes_hp=json.load(json_file)
+
+
+
 
 
 hikes={}
 
+hikes_found=0
+
 for place in raw_hikes['places']:
+    hikes_found=hikes_found+1
     hikes[place['name']]={}
     hikes[place['name']]['lat']=place['lat']
     hikes[place['name']]['lon']=place['lon']
-    
+
+for place in raw_hikes_hp['trails']:
+    hikes_found=hikes_found+1
+    place_name=place['name']
+    place_name=re.sub(r'\W+', '', place_name)
+    hikes[place_name]={}
+    hikes[place_name]['lat']=place['latitude']
+    hikes[place_name]['lon']=place['longitude']
+
+
+
+print('Hikes Found:')
+print(hikes_found)
 
 airports={}
 
