@@ -42,4 +42,31 @@ class Haversine:
         self.miles=self.meters*0.000621371      # output distance in miles
         self.feet=self.miles*5280               # output distance in feet
 
+with open('airports.json') as airports_json_file:
+    airports=json.load(airports_json_file)
+    
+with open('hikes.json') as hikes_json_file:
+    hikes=json.load(hikes_json_file)
+
+
+for air_key in airports:
+    airports[air_key]['distance_to_hike']=99999
+    airports[air_key]['closest_hike']='none'
+    airports[air_key]['hike_lat']=0
+    airports[air_key]['hike_lon']=0
+    for hike_key in hikes:
+        distance_to_hike=Haversine([float(airports[air_key]['lon']),float(airports[air_key]['lat'])],[float(hikes[hike_key]['lon']),float(hikes[hike_key]['lat'])]).miles
+        if distance_to_hike < airports[air_key]['distance_to_hike'] :
+            airports[air_key]['distance_to_hike']=distance_to_hike
+            airports[air_key]['closest_hike']=hike_key
+            airports[air_key]['hike_lat']=hikes[hike_key]['lat']
+            airports[air_key]['hike_lon']=hikes[hike_key]['lon']
+
+with open('airport_hikes.json','wb') as outfile:
+    json.dump(airports,outfile)
+
+
+
+    
+
 

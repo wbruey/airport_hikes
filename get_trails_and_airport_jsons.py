@@ -4,7 +4,7 @@ import csv
 import math
 
 
-def conversion(old):
+def lat_lon_conversion(old):
     direction = {'N':1, 'S':-1, 'E': 1, 'W':-1}
     new = old.replace('-',' ')
     new = new[:-1]+' '+new[-1]
@@ -78,8 +78,8 @@ with open('north_east_airports.csv') as csvfile:
     for row in spamreader:
         if row['Type']=='AIRPORT' and row['Use']=='PU':
             airports[row['LocationID'][1:]]={}
-            airports[row['LocationID'][1:]]['lat']=row['ARPLatitude']
-            airports[row['LocationID'][1:]]['lon']=row['ARPLongitude']
+            airports[row['LocationID'][1:]]['lat']=lat_lon_conversion(row['ARPLatitude'])
+            airports[row['LocationID'][1:]]['lon']=lat_lon_conversion(row['ARPLongitude'])
 
 with open('hikes.json','wb') as outfile:
     json.dump(hikes,outfile)
