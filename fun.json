@@ -1,0 +1,4044 @@
+{
+  "places": [
+    {
+      "city": "Ringwood",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Ringwood Skylands Manor",
+      "parent_id": null,
+      "unique_id": 2636,
+      "directions": "Very easy to get to, in NJ, rte 287 north,, get off exit 55.Make right, follow through ton of Wanaque. Proceed, approx 8-10 miles, around the reservoir, then road splits. Keep right, stay approx 1-2 miles, you will see sign for skylands manor, Botanical Gardens. Make right, up hill,, all the way, bumpy windy hill. At top, STOP sign, make left, proceed to entrance to park. Park left or right, entrance to trail, at right. You will see other bikers. There are wide trail, which are moderate climbs, and there are singletracks off them, which network together, which are very difficult. All climbing and technical stuff, not too much speed here, just technical climbing, up and down turns, rocks, and roots. VERY SCENIC VERY COOL !!&lt;br /&gt;Contact me, I ride with a group on SAT and SUN.  Email me for directions from parkway, or other highways.",
+      "lat": 41.12692,
+      "lon": -74.23913,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Ringwood Skylands Manor",
+          "unique_id": "1-749",
+          "place_id": 2636,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=749",
+          "attribs": {
+            "\"length\"": "\"10\"",
+            "\"nightride\"": "null"
+          },
+          "description": "I have been riding serious for over 10 years. I am 28 years old, my career as a personal trainer pushes me further to appreciate mountain biking. I have been to a decent amount of trails, including MOAB out west, and the famous Crested Butte, Colorado. I live very local to the Skylands Manor. I love it here in New Jersey. I know some other good riding not far, in New York. Ringwood by far is the hottest, roughest trail. If you like difficult climbs, tricky obstacles, including riding across fallen trees, 5 feet in the air, 25 feet long, this is the place for you.<br />I ride a hard tail bike, front suspension of course. ANY bike shop in New Jersey is familiar with Ringwood riding. There are many for than 10 miles of trails here, but the 10-mile singletrack loop is plenty enough. After about 8 mikes, your legs are pretty shot.<br />",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2013/01/404245_3770391827806_769834121_n-0.jpg",
+          "rank": null,
+          "rating": 4.5
+        },
+        {
+          "name": "Ringwood Skylands Manor",
+          "unique_id": "2-181",
+          "place_id": 2636,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=181",
+          "attribs": {
+            "\"length\"": "\"10\""
+          },
+          "description": "Ringwood Skylands Manor features 10 miles of hiking trails near Ringwood, NJ.",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "New Hartford",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Ski Sundown",
+      "parent_id": null,
+      "unique_id": 15021,
+      "directions": null,
+      "lat": 41.884832,
+      "lon": -72.947961,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Ski Sundown",
+          "unique_id": "6-434",
+          "place_id": 15021,
+          "activity_type_id": 9,
+          "activity_type_name": "snow sports",
+          "url": "http://www.snowtoit.com/trail.php?c=73&i=434",
+          "attribs": {
+            "\"type\"": "\"Lift-serviced \\/ Resort\""
+          },
+          "description": "With 65 skiable acres, 100% snowmaking coverage, and trails for all skill levels, skiers and snowboarders will find plenty of excitement on the slopes of Ski Sundown.<br /><br />Ski Sundown has 15 trails, 14 of which are lit for night skiing, that descend 625 feet. The trails are serviced by 5 lifts at an uphill capacity of 8,040 people per hour. The trails are rated 50% easiest, 25% more difficult, and 25% most difficult. The longest trail, Tom's Treat, is 1 mile long. Other trails include Canyon Run, Over Easy, and Stinger.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T17:33:19Z",
+            "id": 9,
+            "name": "snow sports",
+            "updated_at": "2012-08-15T17:33:19Z"
+          },
+          "thumbnail": "http://images.snowtoit.com/2011/11/434-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Staatsburg",
+      "state": "New York",
+      "country": "United States",
+      "name": "Ogden Mills &amp; Ruth Livingston Mills State Park",
+      "parent_id": null,
+      "unique_id": 18283,
+      "directions": "Old Post Road, P.O. Box 893&lt;br /&gt;Staatsburg, NY 12580 millsnorrie@parks.ny.gov&lt;br /&gt;Phone: (845) 889-4646",
+      "lat": 41.849815,
+      "lon": -73.930137,
+      "description": "Ogden Mills and Ruth Livingston Mills Memorial State Park adjoins Margaret Lewis Norrie State Park and together, comprise more than one thousand acres. Mills Memorial State Park is the home of Dinsmore Golf Course and Staatsburgh State Historic Site. The numerous trails that thread through the grounds of both Mills and Norrie State Parks are ideal for walking, jogging, hiking, cycling, cross country skiing, and snow shoeing - treating visitors to fabulous views of the Hudson River which runs directly along the parks' western boundaries.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Ogden Mills &amp; Ruth Livingston Mills State Park",
+          "unique_id": "2-4917",
+          "place_id": 18283,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4917",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Several miles of trails.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Bear Creek Mountain Resort &amp; Conference Center",
+      "parent_id": null,
+      "unique_id": 3244,
+      "directions": "From Philadelphia (54 miles)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Take I-476 North (the PA Turnpike Northeast Extension) to exit 44/Quakertown. Turn right onto Route 663 South towards Pennsburg. Turn right onto Route 29 North and follow to the Route 100 intersection. Continue straight at traffic light (do not follow 100/29) for 4 miles to Bear Creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From the Philadelphia Airport&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Follow I-95 South for about 2 miles. Merge onto I-476 North. Follow directions from Philadelphia.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From New Jersey/New York (60-90 miles)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Take 1-78 West to Route 100 South via exit 49A/Trexlertown. Follow Route 100 South into Macungie. Turn right onto Church Street (becomes Mountain Road) and continue 5 miles to &quot;T&quot;. Turn left onto State Street and continue ½ mile to Bear Creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Wilmington/Baltimore/D.C. (65-120 miles)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Take 1-95 North into Pennsylvania. Take I-476 North (the PA Turnpike Northeast Extension) to exit 44/Quakertown. Turn right onto Route 663 South towards Pennsburg. Turn right onto Route 29 North and follow to the Route 100 intersection. Continue straight at traffic light (do not follow 100/29) for 4 miles to Bear Creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Harrisburg (60 miles)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Take I-78 East to Route 100 South via the Trexlertown exit. Follow Route 100 South into Macungie. Turn right onto Church Street (becomes Mountain Road) and continue 5 miles to &quot;T&quot;. Turn left onto State Street and continue ½ mile to Bear Creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Reading/Lancaster (25-60 miles)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Take Route 222 North through Temple. Turn right onto Route 73 East and continue ½ mile to first traffic light. Turn left at light. Follow approximately 15 miles to Bear Creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Allentown (12 miles)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Take Route 222 South to Route 100 South into Macungie. Turn right onto Church Street (becomes Mountain Road) and continue 5 miles to &quot;T&quot;. Turn left onto State Street and continue ½ mile to Bear Creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From the Lehigh Valley Airport: Take Route 22 West to Route 100 South via exit 49A/Trexlertown. Follow route 100 South into Macungie. Turn right onto Church Street (becomes Mountain Road) and continue 5 miles to &quot;T&quot;. Turn left onto State Street and continue 1/2 mile to Bear Creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Trail Head is located in parking lot 4,above the big pond. There is a kiosk located in the front of that parking lot. Please sign in,sign a waiver and grab a map. Enjoy the ride!",
+      "lat": 40.47919,
+      "lon": -75.62187,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Bear Creek Mountain Resort &amp; Conference Center",
+          "unique_id": "1-4540",
+          "place_id": 3244,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=4540",
+          "attribs": {
+            "\"length\"": "\"5\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Trail 1 is the main multiple use loop around the property. It is a 5.1 mile loop of mostly single track, with a lot of twists and turns, also a good amount of ascends and descents. There are multiple technical rocky areas threw out the trail;Most of which are marked with signs. Along the way you will encounter some bridges,views, and a tree ride here and there. There are also multiple short cut along the way as well.&lt;br /&gt;<br />&lt;br /&gt;<br />&lt;br /&gt;<br />&lt;br /&gt;<br />Trail 4 and 5 provide a wider smoother option but do cut out some mileage. Trail 3 also cuts out some mileage but is a tight rocky trail. Trail 6 is a option to skip out of some switchbacks but beware it is rocky. Trail 8a,8b,and 8c are out expert trails with lots of rocks and steep descents. All of our trails are intermediate/expert,non directional,multi-use trails.So be alert and polite to others.For a quick beverage or a bit to eat, be sure to stop in to Trails End cafe or the Grille.Located in our hotel.&lt;br /&gt;<br />&lt;br /&gt;<br />&lt;br /&gt;<br />&lt;br /&gt;<br />&lt;br /&gt;<br />&lt;br /&gt;<br />",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2013/06/mobile-1370489034-0.jpg",
+          "rank": null,
+          "rating": 4.56
+        },
+        {
+          "name": "Bear Creek Mountain Resort &amp; Conference Center",
+          "unique_id": "2-2615",
+          "place_id": 3244,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=2615",
+          "attribs": {
+            "\"length\"": "\"5\""
+          },
+          "description": "Bear Creek Mountain Resort &amp; Conference Center features 5 miles of hiking trails near Allentown, PA.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        },
+        {
+          "name": "Bear Creek Mountain Resort",
+          "unique_id": "6-537",
+          "place_id": 3244,
+          "activity_type_id": 9,
+          "activity_type_name": "snow sports",
+          "url": "http://www.snowtoit.com/trail.php?c=73&i=537",
+          "attribs": {
+            "\"type\"": "\"Lift-serviced \\/ Resort\""
+          },
+          "description": "Bear Creek Mountain Resort allows skiers and snowboarders of all abilities to hone their skills day and night.<br /><br />With 100% snowmaking and 100% lighted trails, Bear Creek offers visitors a unique experience. 5 lifts cover 510 feet of vertical rise to a summit 1,100 feet. <br /><br />Bear Creek Mountain Resort boasts 21 trails over 86 skiable acres. The trails are ranked 30% beginner, 40% intermediate, and 30% expert. <br /><br />Popular trails include Broadway, Kodiak, and the 50% slope black diamond trail, Sasquatch.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T17:33:19Z",
+            "id": 9,
+            "name": "snow sports",
+            "updated_at": "2012-08-15T17:33:19Z"
+          },
+          "thumbnail": "http://images.snowtoit.com/2011/10/537-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Allentown",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Clayton Park",
+      "parent_id": null,
+      "unique_id": 2637,
+      "directions": "take i-195 to allentown exit,and follow to main street in allentown.make a right on main,go across the bridge and make left onto high street,this is route 539,follow 539 to cream ridge golf course and make the left across from the clubhouse,follow that road to the end,make a left and a quick right. the parking lot is ahead of you on the left side. ",
+      "lat": 40.15597,
+      "lon": -74.50454,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Clayton Park",
+          "unique_id": "1-841",
+          "place_id": 2637,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=841",
+          "attribs": {
+            "\"length\"": "\"10\"",
+            "\"nightride\"": "null"
+          },
+          "description": "clayton is a roller coaster with a few hard climbs and,depending on the direction you ride it ,some screaming downhills.trails are fairly wide open,and usually pretty dry,be sure to ride the long wash in bolth directions.<br />enjoy",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2014/01/20140115_143436-0.jpg",
+          "rank": null,
+          "rating": 4.06
+        },
+        {
+          "name": "Clayton Park",
+          "unique_id": "2-391",
+          "place_id": 2637,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=391",
+          "attribs": {
+            "\"length\"": "\"10\""
+          },
+          "description": "Clayton Park features 10 miles of hiking trails near Allentown, NJ.",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "New Hartford",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Nepaug State Forest",
+      "parent_id": null,
+      "unique_id": 15738,
+      "directions": "From the junction of Route 202 and Route 44 in Canton, follow Route 202 west 3.1 miles to the Forest entrance on the right.",
+      "lat": 41.824319,
+      "lon": -72.97211,
+      "description": "The Nepaug State Forest offers great biking, camping, cross-country skiing, fishing, hiking, and hunting. A backpack shelter is the only developed facility.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Lehighton",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Beltzville State Park",
+      "parent_id": null,
+      "unique_id": 18936,
+      "directions": "Beltzville is five miles east of Lehighton, just off US 209. From the Northeast Extension of the Pennsylvania Turnpike, take Exit 74 and follow the signs to the park.",
+      "lat": 40.872854,
+      "lon": -75.60222,
+      "description": "The 3,002-acre Beltzville State Park is in the southern foothills of the Poconos. Pohopoco Creek, an excellent trout stream, feeds the 949-acre Beltzville Lake, which is a rest stop for migrating waterfowl and is a destination for boaters and anglers. The sand beach and picnic pavilions are very popular.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Beltzville State Park",
+          "unique_id": "2-5333",
+          "place_id": 18936,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5333",
+          "attribs": {
+            "\"length\"": "\"15\""
+          },
+          "description": "The trails of Beltzville State Park follow wooded paths, old roads and mowed walkways through forests, creek valleys, fields and by the lake. Saw Mill Trail, which is just west of the dam breast, offers a diverse historical hike. The trail passes the remains of a gristmill raceway, a dam and gateways, small ponds, a slate quarry from the 1700s, a wetland and a stream. The trails vary in length. A short description of each trail can be found in the &quot;Beltzville Trail Guide,&quot; which is available at the park office.",
+          "length": 15,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Liberty Landing Marina",
+      "parent_id": null,
+      "unique_id": 18104,
+      "directions": "Take the NJ Turnpike to exit 14B. Follow the signs to Liberty State Park.",
+      "lat": 40.708975,
+      "lon": -74.043493,
+      "description": "Berths: 200; maximum length: 50 feet; draft: 18 feet.\r\n\r\nDockside: Travel lift, holding tank pumpout, sailing school.\r\n\r\nFacilities: Within Liberty State Park Central Railroad of New Jersey Terminal, interpretive center, nature trails, birdwatching, exercise course, Liberty Science Center. Ferry to the Statue of Liberty, Ellis Island and Manhattan.\r\n\r\nAdditional Information: Liberty Landing Marina is operated through a lease agreement. For additional information, please contact them at 201-985-8000.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Tuxedo",
+      "state": "New York",
+      "country": "United States",
+      "name": "Schunnemunk State Park",
+      "parent_id": null,
+      "unique_id": 18308,
+      "directions": "Sterling Forest State Park, 116 Old Forge Road&lt;br /&gt;Tuxedo, NY 10987&lt;br /&gt;Phone: (845) 351-5907",
+      "lat": 41.361531,
+      "lon": -74.148986,
+      "description": "Schunnemunk has over 2700 acres of rolling meadow and spectacular mountain top. Hikers encounter elevations up to 1664 feet and thrilling 360 degree views of adjacent valleys, portions of the distant Hudson River and surrounding forest and farm lands.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Schunnemunk State Park",
+          "unique_id": "2-4934",
+          "place_id": 18308,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4934",
+          "attribs": {
+            "\"length\"": "\"20\""
+          },
+          "description": "Eight marked  trails; excellent hiking.",
+          "length": 20,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "White Haven",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Hickory Run State Park",
+      "parent_id": null,
+      "unique_id": 18968,
+      "directions": "From I-80, take Exit 274 at the Hickory Run State Park Exit, and drive east on PA 534 for six miles.",
+      "lat": 41.035926,
+      "lon": -75.678974,
+      "description": "The 15,990-acre Hickory Run State Park, Carbon County, lies in the western foothills of the Pocono Mountains. This large park has over 40 miles of hiking trails, three state park natural areas and miles of trout streams. Boulder Field, a striking boulder-strewn area, is a National Natural Landmark.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Hickory Run State Park",
+          "unique_id": "2-3320",
+          "place_id": 18968,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3320",
+          "attribs": {
+            "\"length\"": "\"44\""
+          },
+          "description": "Every trail in the park can be hiked. Explore Trails for trail descriptions.",
+          "length": 44,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": "http://www.tripleblaze.com/./ra-content/images/uploads/2012/09/IMAG0413-0.jpg",
+          "rank": null,
+          "rating": 0
+        },
+        {
+          "name": "Hickory Run State Park",
+          "unique_id": "3-8874",
+          "place_id": 18968,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=8874",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "The 15,990-acre Hickory Run State Park, Carbon County, lies in the western foothills of the Pocono Mountains. This large park has over 40 miles of hiking trails, three state park natural areas and miles of trout streams. Boulder Field, a striking boulder-strewn area, is a National Natural Landmark.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Bensalem",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Neshaminy State Park",
+      "parent_id": null,
+      "unique_id": 19003,
+      "directions": "At the intersection of State Road and Dunks Ferry Road, the park is easily reached from the PA 132 (Street Road) Exit of I-95.",
+      "lat": 40.07909,
+      "lon": -74.931232,
+      "description": "Neshaminy State Park is 339 acres and sits on the Deaware River. Hiking, swimming, boating and fishing are avilable to outdoors lovers here.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Neshaminy State Park",
+          "unique_id": "2-5311",
+          "place_id": 19003,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5311",
+          "attribs": {
+            "\"length\"": "\"4\""
+          },
+          "description": "Neshaminy State Park is 339 acres and sits on the Deaware River. Hiking, swimming, boating and fishing are avilable to outdoors lovers here. There are two hiking trails here that add up to four miles in total.",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Bayville",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Double Trouble State Park",
+      "parent_id": null,
+      "unique_id": 18091,
+      "directions": "Garden State Parkway Southbound:  Take exit 77.  Turn left off exit ramp and travel 1/2 mile south on Double Trouble Road/ County Route 619 South to traffic signal.  Park entrance is straight ahead across Pinewald Keswick Road/County Route 618.",
+      "lat": 39.89048,
+      "lon": -74.229591,
+      "description": "Double Trouble State Park offers an outstanding example of the Pine Barrens ecosystem and a window into the Pine Barrens history. The park provides the protection and interpretation of over 8000 acres of significant natural, cultural, and recreational resources representative of the Pinelands National Reserve.   Its location and resource base afford an opportunity to introduce visitors to southern New Jersey's natural and cultural heritage. Both the natural environment, consisting of a high quality Pine Barrens watershed, and an extremely well preserved historic village associated with New Jersey cranberry agriculture and Atlantic White Cedar logging and milling industries are available to visitors at Double Trouble State Park.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Double Trouble State Park",
+          "unique_id": "2-4784",
+          "place_id": 18091,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4784",
+          "attribs": {
+            "\"length\"": "\"5\""
+          },
+          "description": "The Double Trouble Historic District has a self-guided, marked 1.5-mile loop nature trail and several miles of unmarked paths along sand service roads. Nature trail guides are available at the trailhead next to the cranberry packing house and at the park information building.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Staten Island",
+      "state": "New York",
+      "country": "United States",
+      "name": "Clay Pit Ponds State Park Preserve",
+      "parent_id": null,
+      "unique_id": 18201,
+      "directions": "83 Nielsen Avenue&lt;br /&gt;Staten Island, NY 10309&lt;br /&gt;Phone: (718) 967-1976",
+      "lat": 40.539476,
+      "lon": -74.231914,
+      "description": "Clay Pit Ponds State Park Preserve is a 265-acre nature preserve near the southwest shore of Staten Island. It contains a variety of unique habitats, such as wetlands, ponds, sand barrens, spring-fed streams and woodlands. The preserve is managed to retain its unique ecology and to provide educational and recreational opportunities for people of all ages. Evidences of the Leni Lenape Indians, European settlers and the Free Blacks of Sandy Ground provide a rich cultural history. Educational programs, such as nature walks, pond ecology, birdwatching and tree and flower identification, are offered, as are many activities geared to school children. School and group programs are also welcome by advance registration. In addition, visitors may picnic or hike on designated trails. Horseback riding is also permitted on over 5 miles of bridal paths. Please note that horses are not available to rent.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Clay Pit Ponds State Park Preserve",
+          "unique_id": "2-4878",
+          "place_id": 18201,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4878",
+          "attribs": {
+            "\"length\"": "\"5\""
+          },
+          "description": "Great hiking area.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Queens/ Fresh Meadows",
+      "state": "New York",
+      "country": "United States",
+      "name": "Cunningham Park",
+      "parent_id": null,
+      "unique_id": 2874,
+      "directions": "Take the Long Island Expressway to the Clearview Expressway.  Go South off exit and immediately get off first exit of Clearview, 73rd Ave.  At end of ramp make left and go to 210th st.  Make a left and park near the entrance to the trail at 67th and 210th st.  Entrance is a break in the metal barrier.",
+      "lat": 40.7424,
+      "lon": -73.76523,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Cunningham Park",
+          "unique_id": "1-2099",
+          "place_id": 2874,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=2099",
+          "attribs": {
+            "\"length\"": "\"6\"",
+            "\"nightride\"": "null"
+          },
+          "description": "This is a great new trail.  Maintained by CLIMB.  It has both beginner and diamond loops.  Just follow the trail markers.  Has plenty of technical stuff and logs.  Some really nice jumps.  Has a small bmx style jump section.  You can add some miles by crossing the bridge over the Clearview and riding the other side.  No climbs but a blast none the less.",
+          "length": 6,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2013/08/mobile-1376859409-0.jpg",
+          "rank": null,
+          "rating": 3.92
+        }
+      ]
+    },
+    {
+      "city": "Nanticoke",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Nanticoke/wanamie  Penobscot Ridge Mtb Trail",
+      "parent_id": null,
+      "unique_id": 3174,
+      "directions": "Trail is located 3 miles South of Nanticoke (Exit 164 off I-81) Take Interstate 81 to the Nanticoke Exit 164, this becomes Rt. 29, Take the 2nd exit, this comes to a stop sign, make a Left turn toward Alden. Your now on Middle Road heading toward LCCC College, go past the blinking yellow light at the  Uni-Mart keep straight past the college and after a mile you will come to the end of the road and hit a stop sign at the intersection. Bear Left then bear hard right (you will see RK Furs but stay to the lower right turn) then come to the stop sign where you will make a left tuen. Travel 1.5-2 miles and you will see a Storage Center on the Left (has a tall sign with a Parrot on it) MAKE A LFT INTO THE STORAGE CENTER ENTERANCE, follow the road down 100 yards you will see a Parking Area and a Sign That reads PENNOBSCOT RIDGE MTB TRAIL.&lt;br /&gt;&lt;br /&gt;",
+      "lat": 41.16896,
+      "lon": -76.04702,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Nanticoke/wanamie  Penobscot Ridge Mtb Trail",
+          "unique_id": "1-1536",
+          "place_id": 3174,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=1536",
+          "attribs": {
+            "\"length\"": "\"15\"",
+            "\"nightride\"": "null"
+          },
+          "description": "This area has been tailored for Mountain Biking and offers a variety of trails that will take you all over the Wanamie,Newport, Glen Lyon Mocanaqua Area. Some hills to challenge you, some log hopping, hammer down the old abandoned railroad bed, see some old coal mining buildings, etc.  <br /><br />Earth Conservancy has donated the land just for MTB riding, these trails are only minutes away from Wilkes-Barre. Not many people know about this so If your in the area check it out. At the Parking lot you will look to your 11pm and see a 1125 foot steep climb...it's a tough climb even on an ATV. You can see all of Nanticoke from atop.     <br />You can make this ride as long as you want, trails are pretty much endless once you know your way around.",
+          "length": 15,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 2.5
+        }
+      ]
+    },
+    {
+      "city": "White Plains",
+      "state": "New York",
+      "country": "United States",
+      "name": "Saxon Woods Park",
+      "parent_id": null,
+      "unique_id": 23408,
+      "directions": "1800 Mamaroneck Avenue, White Plains, NY",
+      "lat": 40.984369,
+      "lon": -73.744445,
+      "description": "Saxon Woods Park is a 700-acre property offering a variety of recreational facilities. In colonial times, the park area was called Saxton Forest, after William Saxton, who operated a saw mill on the western branch of the Mamaroneck River. Local usage changed the name to Saxon Woods. The park contains an 18-hole golf course as well as a miniature golf course, the county's largest swimming pool, a children's aquatic playground and picnic areas. It is also the site of the county's only playground that is accessible to the disabled.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Saxon Woods Park",
+          "unique_id": "2-7283",
+          "place_id": 23408,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7283",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "A trail system connects the southern section to the upland wooded northern part of the park, characterized by mature hardwood forests. The trails are very popular with hikers, cross country skiers and horseback riders. The entire system extends along the Hutchinson River Parkway to Twin Lakes Park and north to Maple Moor Golf Course. It also links to the Leatherstocking Trail and Colonial Greenway and contains archeologically sensitive areas.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Staten Island",
+      "state": "New York",
+      "country": "United States",
+      "name": "Trails seperated by streets",
+      "parent_id": null,
+      "unique_id": 26967,
+      "directions": "Barclay Avenue Near Kock BLVD",
+      "lat": 40.53158,
+      "lon": -74.17476,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Trails seperated by streets",
+          "unique_id": "1-9296",
+          "place_id": 26967,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=9296",
+          "attribs": {
+            "\"length\"": "\"10\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Wooded trails in Staten Island that are great in the winter but overgrown in the summer. These trails are not worth traveling to, BUT if you live close enough to ride there, why not. Winter is the best time for these trails. My favorite time to ride here is a few days after a snow fall when the sun softens it up but the ground is still white.",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2015/02/GOPR1157.jpg",
+          "rank": null,
+          "rating": 2
+        }
+      ]
+    },
+    {
+      "city": "Middletown",
+      "state": "New York",
+      "country": "United States",
+      "name": "Camp Orange",
+      "parent_id": null,
+      "unique_id": 2929,
+      "directions": "There are several trail heads we used the Tamms Rd one.  Tamms Rd. is off of CR 42 between Circleville and Middletown.",
+      "lat": 41.50405,
+      "lon": -74.33408,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Camp Orange",
+          "unique_id": "1-4719",
+          "place_id": 2929,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=4719",
+          "attribs": {
+            "\"length\"": "\"9\"",
+            "\"nightride\"": "null"
+          },
+          "description": "The trails are a combination of Horse trails (double track) and single track.  Excellent trails comparable to 909.  Very flowy, uphills are rewarded with long downhills.  There are several log overs and stone walls, nothing major.  Stone walls are nothing compared to Lippman Park.",
+          "length": 9,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2011/08/DSC00344-0.jpg",
+          "rank": null,
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "city": "Blakeslee",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Jack Frost Big Boulder",
+      "parent_id": null,
+      "unique_id": 15106,
+      "directions": null,
+      "lat": 41.051206,
+      "lon": -75.600499,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Jack Frost Big Boulder",
+          "unique_id": "6-545",
+          "place_id": 15106,
+          "activity_type_id": 9,
+          "activity_type_name": "snow sports",
+          "url": "http://www.snowtoit.com/trail.php?c=73&i=545",
+          "attribs": {
+            "\"type\"": "\"Lift-serviced \\/ Resort\""
+          },
+          "description": "Jack Frost Big Boulder offers skiers and snowboarders two mountains and plenty of terrain for all ability levels on which they can hone their skills.<br /><br />Jack Frost boasts a terrain park and 20 trails. 9 lifts access the trails on this mountain. The trails are rated 25% beginner, 35% intermediate, and 40% expert. Trails include Frosty, Sno Chute, and Solitude.<br /><br />Big Boulder has 7 terrain parks and 8 downhill trails. There are 3 beginner trails, 2 intermediate, and 3 expert. 7 lifts access the trails. Trails include Little Boulder, Bunny Schuss, and Draufganger.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T17:33:19Z",
+            "id": 9,
+            "name": "snow sports",
+            "updated_at": "2012-08-15T17:33:19Z"
+          },
+          "thumbnail": "http://images.snowtoit.com/2011/10/545(Big-Boulder)-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Newtown",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Cententential Watershed State Forest",
+      "parent_id": null,
+      "unique_id": 15613,
+      "directions": "From the intersection of Routes 107 and 58 in Redding (Putnam Memorial State Park), take Route 58 south for 1.7 miles. Turn left on Hopewell Woods Road. Follow for 1.8 miles to parking on right.",
+      "lat": 41.343957,
+      "lon": -73.34126,
+      "description": "The 15,300 acres of Centennial Watershed State Forest offer diverse opportunities for hiking, fishing, cross-country skiing, snowshoeing and birding.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Cententential Watershed State Forest",
+          "unique_id": "2-3645",
+          "place_id": 15613,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3645",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Trail maps/permits are available at kiosks located at the trailheads, at the Aquarion Water Company office at 714 Black Rock Road (Route 58) Easton. Hikers under the age of 14 must be accompanied by an adult permit-holder.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "United States",
+      "name": "East River State Park",
+      "parent_id": null,
+      "unique_id": 18213,
+      "directions": "90 Kent Avenue&lt;br /&gt;Brooklyn, NY 11211&lt;br /&gt;Phone: (718) 782-2731",
+      "lat": 40.722233,
+      "lon": -73.962518,
+      "description": "East River State Park is a seven-acre waterfront park located along the East River in the Williamsburg neighborhood of Brooklyn. It offers visitors a stunning view of the Manhattan skyline, a delightful play area, and the green space provides many opportunities for recreation and relaxation. As the site of a 19th century shipping dock, visitors to East River may also discover unique historical remnants like old cobblestone streets and railroad tracks embedded in concrete. Historic interpretive signs are provided for your convenience. The park preserves and protects the many natural and historical resources along this beautiful city waterfront. The park is free and open to the public.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "White Haven",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Lehigh Gorge State Park",
+      "parent_id": null,
+      "unique_id": 18986,
+      "directions": "White Haven is the northern access area and can be reached off Exit 273 of I-80. Follow PA 940 east, being sure to take a right turn at the stop sign in White Haven. Just after crossing the railroad tracks turn right on Main Street and after a sharp, descending left curve bear right to the state park access area.",
+      "lat": 40.91476,
+      "lon": -75.749905,
+      "description": "A deep, steep-walled gorge carved by a river, thick vegetation, rock outcroppings and waterfalls characterize Lehigh Gorge State Park. In Luzerne and Carbon counties in eastern Pennsylvania, the park follows the Lehigh River from the outlet of the U.S. Army Corps of Engineers Francis E. Walter Dam at the northern end, to the town of Jim Thorpe at the southern end of the park. Whitewater boating and biking are popular activities.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Lehigh Gorge State Park",
+          "unique_id": "2-5366",
+          "place_id": 18986,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5366",
+          "attribs": {
+            "\"length\"": "\"33\""
+          },
+          "description": "The 26 miles of the Lehigh Gorge Trail offers easy hiking along the scenic Lehigh River. Highlights are: several waterfalls, historic remnants of the Upper Grand Section of the Lehigh Canal and many opportunities to see wildlife. Potable water is available seasonally at the Rockport Access Area.",
+          "length": 33,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "New Haven",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "West Rocks State Park",
+      "parent_id": null,
+      "unique_id": 1132,
+      "directions": "Wilbur Cross Parkway, Exit 60, head south on Dixwell Avenue to first traffic light past the parkway and turn right on to Benham Street.&lt;br /&gt;Follow Benham to the end and turn left onto Main Street.  First right/drive way on right will be entrance to the park.",
+      "lat": 41.35992,
+      "lon": -72.96516,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "West Rocks State Park",
+          "unique_id": "1-2045",
+          "place_id": 1132,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=2045",
+          "attribs": {
+            "\"length\"": "\"12\"",
+            "\"nightride\"": "null"
+          },
+          "description": "West Rock Park is a popular ride among the locals because it is so convenient to the city of New Haven. Trails are marked with colors.  Yellow trail is a climb only worth of the Hammer Gods.  Red Trail is nice and flat.  White trail goes around Lake Wintergreen.  Blue trail, another particular tough climb leads to one of the best views, looking directly at down town New Haven",
+          "length": 12,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2010/11/ct,pa,oh-004-0.jpg",
+          "rank": null,
+          "rating": 3
+        },
+        {
+          "name": "West Rocks State Park",
+          "unique_id": "2-1717",
+          "place_id": 1132,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=1717",
+          "attribs": {
+            "\"length\"": "\"12\""
+          },
+          "description": "West Rocks State Park features 12 miles of hiking trails near New Haven, CT.",
+          "length": 12,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Hampton Bays",
+      "state": "New York",
+      "country": "United States",
+      "name": "Meschutt Beach County Park",
+      "parent_id": null,
+      "unique_id": 23387,
+      "directions": "Take Sunrise Highway to exit 66 (first exit on east side of the Shinnecock Canal).  At stop sign, proceed straight through intersection. Make a right turn at stop sign, and then take your first left. Park entrance will be on your right.",
+      "lat": 40.894672,
+      "lon": -72.501336,
+      "description": "Meschutt Beach County Park is a stillwater, supervised bathing beach located on Great Peconic Bay, on the east side of the Shinnecock Canal.  A windsurfing and sailing area is also available. The Meschutt Beach Hut Raw Bar &amp; Grill is open for breakfast, lunch &amp; dinner featuring a diverse menu including seafood specialties, live enterainment and unique settings.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Riverhead",
+      "state": "New York",
+      "country": "United States",
+      "name": "Cranberry Bog Nature Preserve",
+      "parent_id": null,
+      "unique_id": 23372,
+      "directions": "Moriches-Riverhead Road&lt;br /&gt;Riverhead &lt;br /&gt;(631) 854-4949",
+      "lat": 40.917044,
+      "lon": -72.66204,
+      "description": "This 165 acre preserve is part of the drainage system of the Peconic River and serves as a natural reservoir for our fresh water supply. It allows for hiking that includes sights of the Little Peconic River, various plants, birds, reptiles, and other wildlife creatures. Within the preserve lies Sweezy Pond and Cheney Pond, which is surrounded by a White-Cedar swamp with trees as large as 16&quot; in diameter. It is a haven of natural, unspoiled beauty on the edge of a rapidly growing urban center.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Cranberry Bog Nature Preserve",
+          "unique_id": "2-7305",
+          "place_id": 23372,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7305",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "This 165 acre preserve is part of the drainage system of the Peconic River and serves as a natural reservoir for our fresh water supply. It allows for hiking that includes sights of the Little Peconic River, various plants, birds, reptiles, and other wildlife creatures. Within the preserve lies Sweezy Pond and Cheney Pond, which is surrounded by a White-Cedar swamp with trees as large as 16&quot; in diameter. It is a haven of natural, unspoiled beauty on the edge of a rapidly growing urban center.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Wind Gap",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Appalachian Trail 099: PA 33 to Delaware River Bridge",
+      "parent_id": null,
+      "unique_id": 5754,
+      "directions": "pa",
+      "lat": 40.86075,
+      "lon": -75.292569,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Appalachian Trail 099: PA 33 to Delaware River Bridge",
+          "unique_id": "2-2419",
+          "place_id": 5754,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=2419",
+          "attribs": {
+            "\"length\"": "\"16\""
+          },
+          "description": "This is the last section of the Appalachian Trail in Pennsylvania, and it runs 15.8 miles from PA Hwy 33 to the Delaware River Bridge on the New Jersey border. Along the way it passes the Blue Mountain High Point, PA Hwy 191 (Fox Gap), the Kirkridge shelter, Godfrey Ridge, Mount Minsi, and Delaware Water Gap.&lt;br /&gt;<br />Note: if you are north bound, pick up the Appalachian Trail descriptions in New Jersey (or just click here).",
+          "length": 16,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2013/06/image-1.jpg",
+          "rank": null,
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "city": "Barkhamstead",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Peoples State Forest",
+      "parent_id": null,
+      "unique_id": 15749,
+      "directions": "Off Route 44: take Route 318 in Barkhamsted. Go across the steel bridge and take an immediate left onto East River Road. The recreation area is approximately 1 mile up on the left.",
+      "lat": 41.924314,
+      "lon": -72.997444,
+      "description": "Four season fun can be found at American Legion/Peoples State Forests which offer the region's finest fishing, hunting and winter sporting activities nestled amid the wooded splendor.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Peoples State Forest",
+          "unique_id": "2-3683",
+          "place_id": 15749,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3683",
+          "attribs": {
+            "\"length\"": "\"10\""
+          },
+          "description": "Six trails offer over ten miles of hiking.",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "West Bayshore",
+      "state": "New York",
+      "country": "United States",
+      "name": "Edgewood Preserve",
+      "parent_id": null,
+      "unique_id": 2851,
+      "directions": "Take Long Island Expressway to Exit 52, Commack Road.  Go South two miles.  Parking is a large gravel parking lot on left side, just South of Burlington Avenue.",
+      "lat": 40.77646,
+      "lon": -73.31007,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Edgewood Preserve",
+          "unique_id": "1-3528",
+          "place_id": 2851,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=3528",
+          "attribs": {
+            "\"length\"": "\"6\"",
+            "\"nightride\"": "null"
+          },
+          "description": "The trail is a beginner trail of mostly wide singletrack and some doubletrack.  Very flat no hills and no diamonds.  Strickly for speed or beginner loop.",
+          "length": 6,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2009/10/PA130043-0.jpg",
+          "rank": null,
+          "rating": 2.75
+        }
+      ]
+    },
+    {
+      "city": "Wayne",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "High mountain park",
+      "parent_id": null,
+      "unique_id": 22049,
+      "directions": "76-298 college rd Wayne nj 07470",
+      "lat": 40.96041,
+      "lon": -74.20157,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "High Mountain Park",
+          "unique_id": "1-6383",
+          "place_id": 22049,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=6383",
+          "attribs": {
+            "\"length\"": "\"8\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Rocky uphills. Nice decents. Good work out for any rider.",
+          "length": 8,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2013/05/mobile-1367772571-0.jpg",
+          "rank": null,
+          "rating": 5
+        },
+        {
+          "name": "Grassy Pond",
+          "unique_id": "1-6367",
+          "place_id": 22049,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=6367",
+          "attribs": {
+            "\"length\"": "\"3\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Old fire road, gradually conforming to singletrack. Easy. Lean-to at pond at end point.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Kings Park",
+      "state": "New York",
+      "country": "United States",
+      "name": "Nissequogue River State Park",
+      "parent_id": null,
+      "unique_id": 18280,
+      "directions": "799 Saint Johnland Road&lt;br /&gt;Kings Park, NY 11754&lt;br /&gt;Phone: (631) 269-4927",
+      "lat": 40.900285,
+      "lon": -73.237376,
+      "description": "Nissequogue River State Park is located on the north shore of Long Island. A variety of habitats including tidal and fresh water wetlands and hardwood forests provide habitat to a variety of shore birds, reptiles and amphibians. A section of the park has been designated a State Bird Conservation Area. The Greenbelt Trail, for walking and hiking, parallels the Nissequogue River and provides scenic views of the river and the Long Island Sound from the top of the bluffs. The park also has a soccer field, a canoe and kayak launch, fishing, bird watching, interpretive signs, guided tours and group tours by reservation, plus a conference room which can be rented.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Nissequogue River State Park",
+          "unique_id": "2-4915",
+          "place_id": 18280,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4915",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Lovely area to hike.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Phoenixville",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Black Rock",
+      "parent_id": null,
+      "unique_id": 3262,
+      "directions": "Park at or behind the Pickering Creek Tavern.  Go towards Mt Claire on Bridge St.  &lt;br /&gt;&lt;br /&gt;Between the rail road overpass and the Schulykill River bridge left on to the gravel &lt;br /&gt;&lt;br /&gt;road.  Cross over French Creek along the rail road tracks.  Just after the creek &lt;br /&gt;&lt;br /&gt;crossing you can drop on to the trail.",
+      "lat": 40.135,
+      "lon": -75.50971,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Black Rock",
+          "unique_id": "1-5576",
+          "place_id": 3262,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=5576",
+          "attribs": {
+            "\"length\"": "\"8\"",
+            "\"nightride\"": "null"
+          },
+          "description": "This trail will run north as a mixture of wide and narrow singletrack.  You'll pass &lt;br /&gt;<br />through the Black Rock Bird Sanctuary and up to the boat launch at Rt 113.&lt;br /&gt;<br />Take 113 over the river to the Upper Schulykill Valley Park.  Drop back down to &lt;br /&gt;<br />the river on River Rd.  At the far left end of the parking lot you can re-enter the &lt;br /&gt;<br />trail.  1/8 or so of a mile later you can go left for climbs and singletrack or &lt;br /&gt;<br />straight for a flat side gravel/ dirt trail back to Lock 60 in Mt Claire where you &lt;br /&gt;<br />can cross back over the river to Phoenixville.",
+          "length": 8,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2014/05/20140514_103426.jpg",
+          "rank": null,
+          "rating": 4.33
+        }
+      ]
+    },
+    {
+      "city": "Queens",
+      "state": "New York",
+      "country": "United States",
+      "name": "Forest Park Trail Network",
+      "parent_id": null,
+      "unique_id": 2808,
+      "directions": "E or F train Union Turnpike st.1/4 mile north of park.go east fr/trail head located right of gate on Forest park dr. and Metropolitan ave. Hookup w/locals for big loop or make up your own trails thoughout whole park even across Woodhaven blvd. on south side of park. Explore.",
+      "lat": 40.70843,
+      "lon": -73.83903,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Forest Park Trail Network",
+          "unique_id": "1-382",
+          "place_id": 2808,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=382",
+          "attribs": {
+            "\"length\"": "\"9\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Single track , double track fire road log climbs bmx jumps drop off's down hills, steep short climbs all within city limits. Great training ground if you don't have time to go out side city. E-mail me if you want to ride!!",
+          "length": 9,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2012/11/cdv_photo_002-8.jpg",
+          "rank": null,
+          "rating": 3.44
+        },
+        {
+          "name": "Forest Park Trail Network",
+          "unique_id": "2-344",
+          "place_id": 2808,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=344",
+          "attribs": {
+            "\"length\"": "\"9\""
+          },
+          "description": "Forest Park Trail Network features 9 miles of hiking trails near Queens, NY.",
+          "length": 9,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Smithtown",
+      "state": "New York",
+      "country": "United States",
+      "name": "Blydenburgh County Park",
+      "parent_id": null,
+      "unique_id": 23370,
+      "directions": "The main (southern) entrance to the park is on the north side of Veterans Memorial Highway, opposite the H. Lee Dennison County Center in Smithtown. The northern entrance can be reached by following Route 347 to Brooksite Drive North; turn left on New Mill Road and follow to park entrance at end.",
+      "lat": 40.842461,
+      "lon": -73.217269,
+      "description": "Richly forested hills and valleys at the headwaters of the Nissequogue River, rowing and fishing on lovely Stump Pond, casual strolls through the Blydenburgh Farm and New Mill Historic District featuring a grist mill. These are but a few of the attractions of Blydenburgh County Park. This 627 acre park is open year-round to Suffolk County residents and their guests. Horseback riders may ride or trailer their mounts to Blydenburgh to utilize an extensive bridle path system and practice ring. Trailer parking is available at the northern (New Mill Road) entrance. Suffolk County horseback riding permits are required and must be visibly displayed by all riders. Freshwater fishing for pumpkinseed sunfish, large-mouth bass, perch and bluegill is permitted at Stump Pond between sunrise and sunset. New York State freshwater fishing laws apply. Rowboat rentals are generally available from mid-May to Labor Day. Use the southern (Veteran's Memorial Highway) entrance for these activities. Hikes through Blydenburgh are led on a regular basis by the Long Island Greenbelt Trail Conference, whose headquarters are located in one of the historic district houses. For a hike schedule, contact the Greenbelt office at (631)-360-0753.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Blydenburgh County Park",
+          "unique_id": "2-7388",
+          "place_id": 23370,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7388",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Great hiking, jogging trails.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        },
+        {
+          "name": "Blydenburgh County Park",
+          "unique_id": "3-10210",
+          "place_id": 23370,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=10210",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Richly forested hills and valleys at the headwaters of the Nissequogue River, rowing and fishing on lovely Stump Pond, casual strolls through the Blydenburgh Farm and New Mill Historic District featuring a grist mill. These are but a few of the attractions of Blydenburgh County Park. This 627 acre park is open year-round to Suffolk County residents and their guests. Horseback riders may ride or trailer their mounts to Blydenburgh to utilize an extensive bridle path system and practice ring. Trailer parking is available at the northern (New Mill Road) entrance. Suffolk County horseback riding permits are required and must be visibly displayed by all riders. Freshwater fishing for pumpkinseed sunfish, large-mouth bass, perch and bluegill is permitted at Stump Pond between sunrise and sunset. New York State freshwater fishing laws apply. Rowboat rentals are generally available from mid-May to Labor Day. Use the southern (Veteran's Memorial Highway) entrance for these activities. Hikes through Blydenburgh are led on a regular basis by the Long Island Greenbelt Trail Conference, whose headquarters are located in one of the historic district houses. For a hike schedule, contact the Greenbelt office at (631)-360-0753.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Jim Thorpe",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Hickory Run SP - Boulder Field",
+      "parent_id": null,
+      "unique_id": 5440,
+      "directions": "parking lot on Route 534 near underpass where PA Turnpike goes overhead.  parking lot on north side of road, across the street from Hawk Falls trailhead parking lot",
+      "lat": 41.010734,
+      "lon": -75.634861,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Hickory Run SP - Boulder Field",
+          "unique_id": "2-1352",
+          "place_id": 5440,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=1352",
+          "attribs": {
+            "\"length\"": "\"6\""
+          },
+          "description": "Boulder Field is a really neat place, so much so that it has been named a National Natural Landmark.  While there is a dirt road that can take you to it (from near the Hickory Run SP office), you can also hike there.  The trail is about 3 miles each way: it's an out-n-back.  Maybe not the most spectacular hike around, but still a nice walk in the woods, and a great payoff at Boulder Field.  Plus you come out to the BF on the other side from where most tourists drive to it, so you get a totally different perspective on it.  After hanging out there for a while and enjoying the amazing boulders, the hike back might be a bit anti-climactic, but at least it's flat and even a little downhill... &lt;br /&gt;<br />There's a JTX guide service that does a 'best of Hickory Run' tour which includes several hikes in the park, and a visit to Boulder Field by either hike or car (depends on what other hikes are included).  If you don't know the area, this might be a good option.",
+          "length": 6,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2010/04/BoulderField-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Leenhartsville",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Robin Hill Rv",
+      "parent_id": null,
+      "unique_id": 13030,
+      "directions": "None",
+      "lat": 40.586111,
+      "lon": -75.856389,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Robin Hill Rv",
+          "unique_id": "3-7447",
+          "place_id": 13030,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=7447",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Robin Hill is 3 miles off I-78 East or West. 3 acre pond for fishing or paddle boats. On a 41 acre resort, Robin Hill has planned and scheduled activities for all ages. On the grounds are three playgrounds, an outdoor theatre, basketball court, volleyball, horseshoe pits, and nice game room. Bingo every Friday and most Saturdays. Our swimming pool is sure to please with the kiddie pool that has a water umbrella. Saturday cookouts and music by the pool. The store and office carries RV supplies, groceries and gift items as well as live bait and fishing supplies.  Nearby you will find area attractions such as Dorney Park, Hershey Park, Pinnacle Ridge Winery, Clover Hill Winery, Kutztown Folk Festival, Antique Car Show in Macungie, Peter Bros. Meats, Dietrich Meats, Cabela&amp;amp;#39;s, and stream and lake fishing.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Sewell",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Gloucester County College Trail",
+      "parent_id": null,
+      "unique_id": 2644,
+      "directions": "http://www.gccnj.edu/gen_info/directions.cfm &lt;p&gt;&lt;br /&gt;Directions can be found on the website for the college.&lt;br /&gt;The easiest entrance might be beside the daycare center.",
+      "lat": 39.77979,
+      "lon": -75.1177,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Gloucester County College Trail",
+          "unique_id": "1-1354",
+          "place_id": 2644,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=1354",
+          "attribs": {
+            "\"length\"": "\"5\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Tight, winding singletrack with plenty of roots, logs, bridges, and stream crossings.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2014/11/photo(1).jpg",
+          "rank": null,
+          "rating": 4.1
+        }
+      ]
+    },
+    {
+      "city": "Brooklyn",
+      "state": "New York",
+      "country": "United States",
+      "name": "Camp Gateway",
+      "parent_id": null,
+      "unique_id": 12928,
+      "directions": "Passenger vehicles: Take the Belt Parkway to exit 11S, Flatbush Avenue South. Proceed approximately one mile south to the main entrance of Floyd Bennett Field on the left (the last traffic light before the Gil Hodges Memorial Toll Bridge.) Make a LEFT turn at the light. Follow directions below.   RV Campers/Commerical vehicles: From Eastern Long Island (North Shore): Take I-495 West (Long Island Expressway) to I-278 West (Brooklyn Queens Expressway). Exit at Tillary Street. Make left at second traffic light onto Flatbush Avenue South. Stay on Flatbush Avenue until just before the Gil Hodges Memorial Bridge. Make left at last traffic light before bridge. Follow directions bellow.   From Central New Jersey: Take I-95 to Exit 13 (Goethels Bridge - toll). Cross bridge to I-278 East. Exit at Fort Hamilton Parkway. Take 65th Street to the end. Make left onto Avenue P. Make right onto Flatbush Avenue. Stay on Flatbush Avenue until just before the Gil Hodges Memorial Bridge. Make left at last traffic light before bridge. Follow directions below.  Public Transportation: Take the Q35 bus to the main entrance.  After turning into Floyd Bennett Field, make first left, then make next right turn. Campground entrance is 1 mile ahead on the left. ",
+      "lat": 40.595833,
+      "lon": -73.885833,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Camp Gateway",
+          "unique_id": "3-7345",
+          "place_id": 12928,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=7345",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "There&amp;amp;#39;s no other campground in the world where a family can sleep under the stars, tour the Statue of Liberty, watch a Broadway musical and kayak in one of the world&amp;amp;#39;s premier bird migration sanctuaries-all in one trip. Camp Gateway provides a tranquil outdoor experience right outside the nation&amp;amp;#39;s most lively and iconic metropolis- New York City.      Located in Floyd Bennet Field in Brooklyn, New York, the campground offers an outdoor escape for hiking, biking, birding and historic tours of airports and forts. In summer, first-time campers can sample a weekend of s&amp;amp;#39;mores and pitching tents with a ranger-led introductory camping program.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2011/06/7345-1308901732-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Stone Mountain",
+      "state": "Georgia",
+      "country": "United States",
+      "name": "DeShong Park",
+      "parent_id": null,
+      "unique_id": 18712,
+      "directions": "2859 North DeShong Road, Stone Mountain 30087",
+      "lat": 39.855503,
+      "lon": -75.362324,
+      "description": "The 208-acre DeShong Park is a day use park with horseshoe pits, shuffleboard courts, checker tables, two half-court basketball courts, a skate complex, a playground and a 1.5-mile paved trail.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "DeShong Park",
+          "unique_id": "2-5086",
+          "place_id": 18712,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5086",
+          "attribs": {
+            "\"length\"": "\"2\""
+          },
+          "description": "The 208-acre DeShong Park is a day use park with horseshoe pits, shuffleboard courts, checker tables, two half-court basketball courts, a skate complex, a playground and a 1.5-mile paved trail.",
+          "length": 2,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Blackwood",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Camden County College",
+      "parent_id": null,
+      "unique_id": 2648,
+      "directions": "From North: Take 42 south to exit 7.  Turn right at 1st light (Sicklerville Road), then left at 2nd light (Hickstown Road).  Turn left at 1st light (Peter Cheeseman Road), then park either in the Gloucester Twp park and ride into the trees or pass the park and park in the college parking lot.  The trails are in the woods between the college and the GT park.&lt;br /&gt;&lt;br /&gt;From South: Take Sicklerville exit off of 42 North (or exit 43 from AC Expwy), turn left at the end of the exit (Sicklerville Road), then left at the first light (Hickstown Rd).  Follow directions above from Hickstown Rd.",
+      "lat": 39.77779,
+      "lon": -75.03735,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Camden County College",
+          "unique_id": "1-2142",
+          "place_id": 2648,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=2142",
+          "attribs": {
+            "\"length\"": "\"4\"",
+            "\"nightride\"": "null"
+          },
+          "description": "The Camden County College trails seem to be geared towards beginners and intermediate riders, although the newer trails are a bit more challenging.  The trails follow a gradual hill down from the college to Rt 42, and runs along a hillside near Rt 42.  Although these trails aren't the most challenging, they are fun to ride, and are a good way to get a short ride in after work.  The trails are blazed with colored arrows, helping to keep to a specific route, but it's easy to connect any of the trails.  These trails are used by various people, so watch out for runners, dirt bikes, and walkers.  ",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2013/09/mobile-1378075930-0.jpg",
+          "rank": null,
+          "rating": 4.24
+        },
+        {
+          "name": "Camden County College",
+          "unique_id": "2-753",
+          "place_id": 2648,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=753",
+          "attribs": {
+            "\"length\"": "\"4\""
+          },
+          "description": "Camden County College features 4 miles of hiking trails near Blackwood, NJ.",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "lower Southampton",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "playwicki farm",
+      "parent_id": null,
+      "unique_id": 27262,
+      "directions": "Bridgetown pike",
+      "lat": 40.16982,
+      "lon": -74.97145,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "playwicki farm",
+          "unique_id": "1-9644",
+          "place_id": 27262,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=9644",
+          "attribs": {
+            "\"length\"": "\"1\"",
+            "\"nightride\"": "null"
+          },
+          "description": "nice easy beginner trail with a few technical rock gardens",
+          "length": 1,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Fort Washington",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Fort Washington State Park",
+      "parent_id": null,
+      "unique_id": 18961,
+      "directions": "Fort Washington State Park is between the towns of Fort Washington and Flourtown along the Bethlehem Pike. It is about two miles from PA Turnpike Exit 339.",
+      "lat": 40.12002,
+      "lon": -75.234131,
+      "description": "Fort Washington State Park is an ideal destination for people who love nature. There is hiking, biking, skiing, and fishing available for everyone to enjoy. Also, be on the lookout for migratory birds and flowering dogwoods.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Fort Washington State Park",
+          "unique_id": "2-5282",
+          "place_id": 18961,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5282",
+          "attribs": {
+            "\"length\"": "\"4\""
+          },
+          "description": "Fort Washington State Park is an ideal destination for people who love nature. There is hiking, biking, skiing, and fishing available for everyone to enjoy. Also, be on the lookout for migratory birds and flowering dogwoods.",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Eastport",
+      "state": "New York",
+      "country": "United States",
+      "name": "Eastport",
+      "parent_id": null,
+      "unique_id": 2846,
+      "directions": "Take Sunrise Highway (Rte. 27) to Exit 61.  Go North on Rte. 51.  Just past overpa**mall parking field on left side.  Get more info and map @ climbonline.org.  DEC permit required (free).",
+      "lat": 40.84911,
+      "lon": -72.73375,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Eastport",
+          "unique_id": "1-1223",
+          "place_id": 2846,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=1223",
+          "attribs": {
+            "\"length\"": "\"8\"",
+            "\"nightride\"": "null"
+          },
+          "description": "This is about 8 or 9 miles.  Basically flat and in the trees.  Watch for ticks.  Interesting singletrack through open field.  Very narrow and affectionately known as &quot;Field of Misery&quot;.  Stays dry even after a good rain.",
+          "length": 8,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2009/trails/01/1223-1209310918.jpg",
+          "rank": null,
+          "rating": 1.5
+        }
+      ]
+    },
+    {
+      "city": "Norfolk",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Haystack Mountain State Park",
+      "parent_id": null,
+      "unique_id": 15650,
+      "directions": "From the North - Great Barrington or Pittsfield, MA: travel south on Route 7 into Canaan and take a left heading east on Route 44, then take a left onto Route 272 north. The park will be on the left.",
+      "lat": 41.99704,
+      "lon": -73.203079,
+      "description": "Travel the twisting mountain road or hike the rugged trail to the top, either way you will be astounded at the beauty of mountain laurel in June and the spectacular colors of foliage in the fall.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Haystack Mountain State Park",
+          "unique_id": "2-3655",
+          "place_id": 15650,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3655",
+          "attribs": {
+            "\"length\"": "\"2\""
+          },
+          "description": "A roadway provides access halfway up the mountain. Prominent along the road is a spectacle of foliage in the fall and an outstanding show of mountain laurel in June. From the end of the road there is a rugged half-mile trail to the top. Allow about half an hour for this walk if you are not a seasoned hiker.",
+          "length": 2,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "S Egremont",
+      "state": "Massachusetts",
+      "country": "United States",
+      "name": "Mt. Washington State Forest",
+      "parent_id": null,
+      "unique_id": 17167,
+      "directions": "Mount Washington State Forest is located in the southern Berkshires of western Massachusetts.&lt;br /&gt;&lt;br /&gt;From East or West/Mass Pike (I-90): Take Exit 2 in Lee. Follow MA Rte. 102 west for 4.7 miles to Stockbridge. Turn left and follow U.S. Rte. 7 south for 7.7 miles through Great Barrington. Turn right and follow MA Rte. 23 west for 4.9 miles to South Egremont. Turn left onto MA Rte. 41 south, then take immediate right, Mount Washington Road; continue for 8.8 miles (becomes East St.) to park entrance and headquarters.&lt;br /&gt;&lt;br /&gt;From West, North and South/NY Rte. 22: From NY Rte. 22 in Copake Falls, NY take NY Rte. 344 east into Massachusetts (becomes Falls Rd.) for 3.3 miles. Turn right onto West Street and continue for 2 miles, bearing right onto East Street. Parking and trailhead are on right.",
+      "lat": 42.127338,
+      "lon": -73.467285,
+      "description": "The 4,169 acre Mount Washington State Forest is located in the southern Taconic Mountains of the southwestern Berkshire region of Massachusetts. This state forest is situated high on a mountain plateau which offers spectacular views of the rolling woodlands surrounding it. 30 miles of multi-use trails are on the property, making it a great location for hiking, trail running, mountain biking and horseback riding. Wilderness camping is very common here. \r\n\r\n Bash Bish Falls, a common tourist attraction, is adjacent to the forest.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Mt. Washington State Forest",
+          "unique_id": "2-4252",
+          "place_id": 17167,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4252",
+          "attribs": {
+            "\"length\"": "\"30\""
+          },
+          "description": "The 4,169 acre Mount Washington State Forest is located in the southern Taconic Mountains of the southwestern Berkshire region of Massachusetts. This state forest is situated high on a mountain plateau which offers spectacular views of the rolling woodlands surrounding it. 30 miles of multi-use trails are on the property, making it a great location for hiking, trail running, mountain biking and horseback riding. Wilderness camping is very common here. <br /><br /> Bash Bish Falls, a common tourist attraction, is adjacent to the forest.",
+          "length": 30,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Barnesville",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Locust Lake State Park",
+      "parent_id": null,
+      "unique_id": 18991,
+      "directions": "From I-81 northbound, take Exit 131B, cross under the I-81 overpass and make an immediate left turn toward New Boston. Travel 1.1 miles to a left turn, follow signs. (Left turn is also signed).&lt;br /&gt; &lt;br /&gt;From I-81 southbound, take Exit 131A, left turn then travel 1.0 miles to a left turn.",
+      "lat": 40.785495,
+      "lon": -76.139397,
+      "description": "Locust Lake State Park is a 1,772-acre park with 52 of that being covered by Locust Lake. This is a popular camping destination and offers hiking, biking, swimming, boating and fishing.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Locust Lake State Park",
+          "unique_id": "2-5301",
+          "place_id": 18991,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5301",
+          "attribs": {
+            "\"length\"": "\"7\""
+          },
+          "description": "Locust Lake State Park is a 1,772-acre park with 52 of that being covered by Locust Lake. This is a popular camping destination and offers hiking, biking, swimming, boating and fishing. There are 3 hiking trails adding up to 6.75 miles in all. They range from very easy tomoderatly difficult and offer some excellent nature views.",
+          "length": 7,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        },
+        {
+          "name": "Locust Lake State Park",
+          "unique_id": "3-8850",
+          "place_id": 18991,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=8850",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Locust Lake State Park is a 1,772-acre park with 52 of that being covered by Locust Lake. This is a popular camping destination and offers hiking, biking, swimming, boating and fishing.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "New Lisbon",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Rancocas State Park",
+      "parent_id": null,
+      "unique_id": 18114,
+      "directions": "Rancocas State Park can be reached by I-295, exit 45A or via Route 38 into Mount Holly. Proceeding onto the Mount Holly bypass, make a left at the second traffic light. Follow signs to the park for about 4 miles.",
+      "lat": 39.9902,
+      "lon": -74.8376,
+      "description": "The Rancocas Creek provides an idyllic setting to observe nature up close in this rustic park.  Hikers, bicyclists and joggers are welcome, however, there are no staffed facilities on site.  The New Jersey Audubon Society operates a Nature Center on the Park (entrance off Rancocas Road) and sponsors varied wildlife programs.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Rancocas State Park",
+          "unique_id": "2-4795",
+          "place_id": 18114,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4795",
+          "attribs": {
+            "\"length\"": "\"8\""
+          },
+          "description": "Excellent hiking.",
+          "length": 8,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2014/03/1374218_10151663640593693_29198274_n-0.jpg",
+          "rank": null,
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "city": "Cold Spring",
+      "state": "New York",
+      "country": "United States",
+      "name": "Fahnestock Winter Park",
+      "parent_id": null,
+      "unique_id": 18217,
+      "directions": "75 Mountain Laurel Lane&lt;br /&gt;Cold Spring, NY 10516 paul.kuznia@parks.ny.gov&lt;br /&gt;Phone: (845) 225-3998&lt;br /&gt;Secondary Phone: (845) 265-3773",
+      "lat": 41.47386,
+      "lon": -73.825535,
+      "description": "Situated in the heart of the Hudson Valley, the park is nestled in the 16,000 acre Clarence Fahnestock Memorial State Park. FWP offers 15 km of machine groomed, tracked and mapped trails for beginning and expierenced skiers and snowshoers. Families find the park particularly enjoyable because it offers easy terrain to ski on near the lodge. The sledding hill and hot chocolate to sip in front of the outdoor fireplace are nice compliments to day-long trips.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Broomall",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Dongi",
+      "parent_id": null,
+      "unique_id": 3225,
+      "directions": "Its directly behind Cardinal Ohara high School on springfield rd. Its between Springfield rd. and Reed rd.",
+      "lat": 39.95115,
+      "lon": -75.34418,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Dongi",
+          "unique_id": "1-3706",
+          "place_id": 3225,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=3706",
+          "attribs": {
+            "\"length\"": "\"3\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Its pretty awesome back there. There are a lot of steepb Downhills and creek crossings. There id=s ome ladder bridges. Moto xers , bmxers and paintballers also frequent the area. Just be respectful and you wont have a problem. There is a nice BMX track with some rollers and doubles. Some of which MTB friendly. There are some other scattered jumps in pits.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Tuxedo",
+      "state": "New York",
+      "country": "United States",
+      "name": "Tuxedo Ski Center",
+      "parent_id": null,
+      "unique_id": 14201,
+      "directions": null,
+      "lat": 41.248501,
+      "lon": -74.226433,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Tuxedo Ski Center",
+          "unique_id": "6-531",
+          "place_id": 14201,
+          "activity_type_id": 9,
+          "activity_type_name": "snow sports",
+          "url": "http://www.snowtoit.com/trail.php?c=73&i=531",
+          "attribs": {
+            "\"type\"": "\"Lift-serviced \\/ Resort\""
+          },
+          "description": "Tuxedo Ridge has 8 total trails ranging in difficulty to meet all skill levels of skiers and snowboarders.<br /><br />The single beginner trail, Bunny Hill, is 650 feet in length and is the best trail for first timers. 4 trails are rated intermediate and the remaining 3 are expert. The trails are serviced by 4 lifts. Trails include Alley Cat, Tiger Pass, and Rainbow.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T17:33:19Z",
+            "id": 9,
+            "name": "snow sports",
+            "updated_at": "2012-08-15T17:33:19Z"
+          },
+          "thumbnail": "http://images.snowtoit.com/2011/10/531-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "West Orange",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "South Mountain Reservation",
+      "parent_id": null,
+      "unique_id": 25155,
+      "directions": "Take Route 280 West to Exit 7/Pleasant Valley Way. Turn left onto Pleasant Valley Way. Reservation is straight ahead.",
+      "lat": 40.79857,
+      "lon": -74.239083,
+      "description": "Created in 1862 by the State Legislature as the Town of Fairmont, it was enlarged in 1863 and re-named West Orange.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "South Mountain Reservation",
+          "unique_id": "2-8351",
+          "place_id": 25155,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=8351",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Created in 1862 by the State Legislature as the Town of Fairmont, it was enlarged in 1863 and re-named West Orange.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Andover",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Kittatiny Valley State Park",
+      "parent_id": null,
+      "unique_id": 2668,
+      "directions": "To the park office: From Route 80, take Route 206 north approximately 8 miles through Andover Borough. Turn right onto Goodale Road and follow it approx.&lt;br /&gt;&lt;br /&gt;1 mile to the park entrance on the right.",
+      "lat": 41.01631,
+      "lon": -74.74387,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Kittatiny Valley State Park",
+          "unique_id": "1-4086",
+          "place_id": 2668,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=4086",
+          "attribs": {
+            "\"length\"": "\"10\"",
+            "\"nightride\"": "null"
+          },
+          "description": "With over 8 miles of rugged mountain bike trails available, Kittatinny Valley State Park is a favorite of many hard-core mountain bikers. Volunteers from the Bulldog Mountain Bike Team regularly maintain trails in preparation for mountain bike races held in the park each year. The terrain is varied enough to be challenging to both novice and expert riders.&lt;br /&gt;<br />&lt;br /&gt;<br />Glacial lakes, limestone outcroppings, former railroads, and a small airport are features of Kittatinny Valley State Park. Lake Aeroflex and Gardnerâs Pond form part of the headwaters of the Pequest River and are excellent for fishing and boating. This scenic property is home to a variety of wildlife such as whitetail deer, wild turkey, a variety of songbirds, beaver, muskrats, and squirrels.&lt;br /&gt;<br />&lt;br /&gt;<br />Hunting, hiking, mountain biking, birding, and horseback riding are popular activities. The four lakes offer fishing, boating, and kayaking opportunities.&lt;br /&gt;<br />&lt;br /&gt;<br />The Paulinskill Valley Trail and the Sussex Branch Trail are former railroads that have been converted for use as multiple use trails. Both railroads were critical to the development of Sussex County through the late 1800âs and early 1900âs. The wide cinder surface is ideal for walking, running, mountain biking, and horseback riding. When snow conditions are abundant, these trails provide and excellent opportunity for cross-country skiing, and snowshoeing. You might even see a musher and his dogsled team running down the trail!",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2014/03/GOPR1586-0.jpg",
+          "rank": null,
+          "rating": 4.13
+        }
+      ]
+    },
+    {
+      "city": "South Egremont",
+      "state": "Massachusetts",
+      "country": "United States",
+      "name": "Appalachian Trail 124: Jug End Road to US 7",
+      "parent_id": null,
+      "unique_id": 5782,
+      "directions": "ma",
+      "lat": 42.14454,
+      "lon": -73.431161,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Appalachian Trail 124: Jug End Road to US 7",
+          "unique_id": "2-2451",
+          "place_id": 5782,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=2451",
+          "attribs": {
+            "\"length\"": "\"5\""
+          },
+          "description": "The AT runs 4.5 miles from Jug End Road to US Highway 7. Along the way it passes MA Hwy 41 and Sheffield Egremont Road.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Palmerton",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Blue Mountain Ski Area",
+      "parent_id": null,
+      "unique_id": 14202,
+      "directions": null,
+      "lat": 40.821735,
+      "lon": -75.515653,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Blue Mountain Ski Area",
+          "unique_id": "6-539",
+          "place_id": 14202,
+          "activity_type_id": 9,
+          "activity_type_name": "snow sports",
+          "url": "http://www.snowtoit.com/trail.php?c=73&i=539",
+          "attribs": {
+            "\"type\"": "\"Lift-serviced \\/ Resort\""
+          },
+          "description": "Located in the Poconos, Blue Mountain offers a variety of trails to fit every level of ski and snowboard ability. <br /><br />The resort boasts 37 trails including 5 designated freestyle areas, and 12 lifts. The trails cover a total a distance of over 11 miles, with the longest trail covering 5,000 feet. <br /><br />Popular trails include Burma Road and the Lazy mile for beginners and intermediates and Sleepy Hollow and Challenge for more advanced skiers. The trails are ranked 44% beginner, 12% intermediate, and 44% advanced and expert.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T17:33:19Z",
+            "id": 9,
+            "name": "snow sports",
+            "updated_at": "2012-08-15T17:33:19Z"
+          },
+          "thumbnail": "http://images.snowtoit.com/2011/10/539-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Frankford",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Appalachian Trail 102: Culvers Gap to NJ 23",
+      "parent_id": null,
+      "unique_id": 5757,
+      "directions": "nj",
+      "lat": 41.180108,
+      "lon": -74.787452,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Appalachian Trail 102: Culvers Gap to NJ 23",
+          "unique_id": "2-2424",
+          "place_id": 5757,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=2424",
+          "attribs": {
+            "\"length\"": "\"14\""
+          },
+          "description": "This section of the AT runs 14.3 miles from Culvers Gap (US Hwy 206) to NJ Hwy 23 (High Point State Park). Along the way it passes Culvers Lake, the Gren Anderson shelter, Sunrise Mountain, the Sunrise Mountain Pavilion, Mashipacong shelter, Deckertown Turnpike, and the Rutherford shelter.",
+          "length": 14,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Andes",
+      "state": "New York",
+      "country": "United States",
+      "name": "Little Pond Campground",
+      "parent_id": null,
+      "unique_id": 12529,
+      "directions": "From South: (NYS Thruway, I-87). Take NYS Thruway to Exit 16 (Harriman), then Rte. 17W to Exit 96 (Livingston Manor). Bear right at end of ramp. Go approximately 1/4 mile to intersection and make a right onto Old Rte. 17. Follow for 1 mile until you see a sign for Kin&amp;apos;s Catering House. Make the next right onto County Rte. 151 (Beaverkill Road). Follow Beaverkill Road approximately 7 miles to Lew Beach. Continue for about 4 miles and make left at campground sign, onto Big Pond Road. Go 1/8 mile, campground entrance is on left.",
+      "lat": 42.034308,
+      "lon": -74.741033,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Little Pond Campground",
+          "unique_id": "3-6946",
+          "place_id": 12529,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=6946",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Nestled in a remote area of the Catskills, quiet, picturesque Little Pond Campground shows off the pristine beauty of the mountains. The Beaverkill, a world-renowned fly-fishing stream, is within minutes of the campground. Nature lovers will enjoy the leisurely hiking trail around a 13-acre pond and the opportunity to venture along trails leading to the ruins of an old farm or enjoy breathtaking views atop the Touchmenot Mountains. Most campsites are heavily wooded, with walk-in and boat-in remote sites available for those who prefer more primitive camping.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2011/06/6946-1307134455-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Liberty State Park",
+      "parent_id": null,
+      "unique_id": 18105,
+      "directions": "Take NJ Turnpike; exit 14B Jersey City. Follow the signs to the park.",
+      "lat": 40.706799,
+      "lon": -74.042502,
+      "description": "Liberty State Park is a green oasis in the middle of Metropolitan northern New Jersey. With the Manhattan skyline, the Statue of Liberty and Ellis Island as a spectacular backdrop, Liberty State Park is one of the state's most dramatic parks. The historic Central Railroad of New Jersey Terminal (CRRNJ), a grand setting for much of New Jersey's transportation history in the northeast, sits prominently at the north end of the park. A two-mile promenade, Liberty Walk links the picnic area, Interpretive Center and the CRRNJ Terminal while presenting visitors with a sweeping view of the Hudson River. An outdoor performance area and other improvements mark the northern section of the park, while the western portion is dominated by the state-of-the-art Liberty Science Center.  Liberty State Park also is the only location in New Jersey with Ferry service to Ellis Island and the Statue of Liberty.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Torrington",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Paugnut State Forest",
+      "parent_id": null,
+      "unique_id": 15745,
+      "directions": "For parking safety reasons, Paugnut Forest is best accessed from the abutting Burr Pond State Park. To reach the Burr Pond parking areas, follow Route 8 south from its intersection with Route 44 in Winsted for 2.7 miles and take the Pinewoods Road exit. Go right at end of exit and follow Pinewoods .22 miles turning left onto Winsted Road. Follow Winsted Road 1.0 miles and turn right onto Burr Mountain Road. Follow for .5 miles to Burr Pond State Park entrance on left where trail heads into forest may be found. The northern section is across Burr Mountain Road; the southern section may be accessed by following trails south (away from Burr Mountain Road).",
+      "lat": 41.86423,
+      "lon": -73.105404,
+      "description": "Paugnut State Forest's 1,702 acres spread out over four locations in north central Torrington and abut Burr Pond and Sunny Brook state parks. The main section of Paugnut totals more than 1,200 acres and is home to the 2.1 mile John Muir Trail which connects the two parks via the forest.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Paugnut State Forest",
+          "unique_id": "2-3681",
+          "place_id": 15745,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3681",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Paugnut State Forest's 1,702 acres spread out over four locations in north central Torrington and abut Burr Pond and Sunny Brook state parks. The main section of Paugnut totals more than 1,200 acres and is home to the 2.1 mile John Muir Trail which connects the two parks via the forest.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Upper Freehold",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Clayton Park",
+      "parent_id": null,
+      "unique_id": 25292,
+      "directions": "Interstate 195 to exit 11 (Imlaystown/Cox's Corner). Eastbound, turn right and follow to end; westbound, turn left and follow to end. Turn left onto Rt. 526 and make immediate right onto Imlaystown-Davis Station Rd. Follow to Emley's Hill Rd., turn left. Follow to Park on left.",
+      "lat": 40.155564,
+      "lon": -74.505106,
+      "description": "You'll feel many miles away from civilization as this rustic 422-acre site in rural Upper Freehold is located amidst the rolling farmland of western Monmouth County. One of the most beautiful parks in the county system, the property is known for stately stands of red and white oak, beech, ash and birch trees.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Clayton Park",
+          "unique_id": "2-8394",
+          "place_id": 25292,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=8394",
+          "attribs": {
+            "\"length\"": "\"6\""
+          },
+          "description": "The forested, hilly trails of this park have become a popular destination for hikers, equestrians, and bicyclists. Enter from Emley's Hill Road ( 6 miles of trails).",
+          "length": 6,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Staten Island",
+      "state": "New York",
+      "country": "United States",
+      "name": "Staten Island Beach",
+      "parent_id": null,
+      "unique_id": 28522,
+      "directions": "Pollion Avenue and the Atlantic ocean",
+      "lat": 40.52099,
+      "lon": -74.18092,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Phoenicia",
+      "state": "New York",
+      "country": "United States",
+      "name": "Woodland Valley",
+      "parent_id": null,
+      "unique_id": 12589,
+      "directions": "From Thruway Exit 19, Kingston - first right from traffic circle after leaving the exit, on to Route 28 West. Proceed 20-25 miles to the village of Phoenicia, which will be on your right. Proceed on Rte. 28 across the bridge over the Esopus Creek In Phoenicia. Turn left at the small yellow &amp;quot;Woodland Valley Campground&amp;quot; sign onto Woodland Valley Road. Follow Woodland Valley Road back over the Esopus Creek. Turn right at the &amp;quot;T&amp;quot; after the bridge. Stay left at the first sharp bend and follow Woodland Valley Road approximately six miles to the campground.",
+      "lat": 42.03505,
+      "lon": -74.3595,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Woodland Valley",
+          "unique_id": "3-7006",
+          "place_id": 12589,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=7006",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Description:  Woodland Valley is nestled in at the end of a valley. Hiking trails abound, leading to Wittenberg, Slide and Cornell Mountains. Slide Mountain is the tallest peak in the Catskills, so hiking it from here is a truly amazing experience. The park&amp;amp;#39;s campsites are mostly wooded, with some campsites located along a small stream. The campground is a peaceful place to relax after a day of hiking or fishing.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2011/06/7006-1307382325-0.jpg",
+          "rank": null,
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "city": "Stockton",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Bull's Island Recreation Area",
+      "parent_id": null,
+      "unique_id": 18086,
+      "directions": "Take I-287 or Route 22 to the intersection with Route 202 in Somerville. Follow Route 202 south for 26 miles to the exit for Route 29 north. Go north for about 6 miles. The entrance is on the left.",
+      "lat": 40.409879,
+      "lon": -75.03594,
+      "description": "The Department of Environmental Protection (DEP) is in the process of developing a comprehensive management plan for the Bull's Island Recreation Area upper river camping section, which includes hazardous tree removal and reforestation.  The upper river campground/low lying area campsites are closed for public access until the area can be reopened for passive recreational use.  The down river campsites are closed for the 2012 camping season pending a second phase tree assessment which will be conducted over the summer.  Day use activities in the lower river section, including the boat ramp and picnic area remain open.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Lambertville",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Bridge To Bridge - D&amp;r Canal",
+      "parent_id": null,
+      "unique_id": 2658,
+      "directions": "From Bridge St. Lambertville: Trail starts right off trail near Greene St. Consignment and  Lambertville Station Pub.  Follows D&amp;R Canal on old towpath. ",
+      "lat": 40.36556,
+      "lon": -74.94592,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Bridge To Bridge - D&amp;r Canal",
+          "unique_id": "1-3401",
+          "place_id": 2658,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=3401",
+          "attribs": {
+            "\"length\"": "\"7\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Like the directions say, this is an old canal towpath.  It is flat, wide, and anti-challenging.  The trail runs from Trenton to New Brunswick, offering over 70 miles of trail.  This run however just goes from Bridge St. in Lambertville, NJ to Bridge St. in Stockton, NJ.",
+          "length": 7,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2009/08/5976772-0.jpg",
+          "rank": null,
+          "rating": 2
+        },
+        {
+          "name": "Bridge To Bridge - D&amp;r Canal",
+          "unique_id": "2-1040",
+          "place_id": 2658,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=1040",
+          "attribs": {
+            "\"length\"": "\"7\""
+          },
+          "description": "Bridge To Bridge - D&amp;r Canal features 7 miles of hiking trails near Lambertville, NJ.",
+          "length": 7,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Scotrun",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Scotrun Campground",
+      "parent_id": null,
+      "unique_id": 13031,
+      "directions": "None",
+      "lat": 41.067336,
+      "lon": -75.319969,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Scotrun Campground",
+          "unique_id": "3-7448",
+          "place_id": 13031,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=7448",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Just minutes from designer outlet shopping, skiing at one of the premier Pocono ski areas and waterpark fun, this mountain property has a host of activities and amenities and a long list of nearby attractions. Easy on/off access to I-80 makes this a vacation paradise. Make plans to stop along the way or make the Pocono Mountains your camping headquarters. With a list of amenities that include a beautiful lake and pool complex, you will have your choice of sitting back and relaxing or filling your day with a long list of things to see and do.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Greenwood Lake",
+      "state": "New York",
+      "country": "United States",
+      "name": "Appalachian Trail: New York",
+      "parent_id": null,
+      "unique_id": 14362,
+      "directions": "NY",
+      "lat": 41.192368,
+      "lon": -74.342819,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Appalachian Trail: New York",
+          "unique_id": "2-3307",
+          "place_id": 14362,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3307",
+          "attribs": {
+            "\"length\"": "\"90\""
+          },
+          "description": "The Appalachian Trail runs for 90 miles through the state of New York, from the &lt;a href=&quot;http://www.tripleblaze.com/3/3306/New-Jersey/Appalachian-Trail--New-Jersey.html&quot;&gt;New Jersey&lt;/a&gt; border to the &lt;a href=&quot;http://www.tripleblaze.com/Hiking-Trails/Connecticut_10.html&quot;&gt;Connecticut&lt;/a&gt; border. To get additional information, click on the listings form the individual sections of the trail below.",
+          "length": 90,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Madison",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Brotherin Trail System",
+      "parent_id": null,
+      "unique_id": 1151,
+      "directions": "Start at Daniel Hand High School on Green Hill Road.  Take a left out of the highschool driveway.  Drive for roughly 150 meters, then take a right onto Warpas road.  Continue on Warpas for about 300 meters until you see a large pile of logs/tree branches on the left side of the road.  This is the entrance to the trail system, blocked off with branches so that cars cannot get in.  (By the way, there is no parking so I recommend parking your car at Hand, about a quarter of a mile away, and then biking to the trail)",
+      "lat": 41.29944,
+      "lon": -72.623,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Brotherin Trail System",
+          "unique_id": "1-4350",
+          "place_id": 1151,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=4350",
+          "attribs": {
+            "\"length\"": "\"4\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Great place for mountain biking in Madison, really makes good use of one of the largest hills in the southern part of the town.  Mostly Cross-Country type riding, however, there is one large and very steep hill (downhill type) with 3 moderately sized jumps.  The large downhill takes about 45 seconds to bomb down, but is great fun with a few rock beds and banked turns incorporated in.&lt;br /&gt;<br />&lt;br /&gt;<br />The recommended route to take to get to the large hill is to ride in on the path coming off of the road until you see a large Tee-Pee on your right (just off to the side of the trail, impossible to miss.) after this, follow the trail to the right and start climbing the hill =)&lt;br /&gt;<br />&lt;br /&gt;<br />To get to the cross-country portion, keep straight after the tee-pee and continue going straight until you pass out of the yellow-grass, climb a moderate hill, and the foliage changes to pines.  From there, you will intersect with a main trail system.",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 3
+        },
+        {
+          "name": "Brotherin Trail System",
+          "unique_id": "2-1830",
+          "place_id": 1151,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=1830",
+          "attribs": {
+            "\"length\"": "\"4\""
+          },
+          "description": "Brotherin Trail System features 4 miles of hiking trails near Madison, CT.",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Middlefield",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Wadsworth Falls State Park",
+      "parent_id": null,
+      "unique_id": 15787,
+      "directions": "From Hartford area: Take I-91 south onto Route 9 south. Follow Route 9 south to Middletown. Take Middletown - Meriden Exit 15 onto Route 66. Stay on Route 66 through Middletown for 6-7 traffic lights - look for the signs Wadsworth Falls State Park and Route 157 at a traffic light near a Walgreen's Pharmacy. Take a left onto Route 157. Stay on Route 157. Wadsworth Falls State Park will be on the left.",
+      "lat": 41.526284,
+      "lon": -72.697274,
+      "description": "Spend a summer day cooling off in the mist of the waterfall or an autumn day hiking or biking the varied trails of the park.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Wadsworth State Park",
+          "unique_id": "1-2050",
+          "place_id": 15787,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=2050",
+          "attribs": {
+            "\"length\"": "\"5\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Some really interesting singletrack installed within the last few years, some dual track, and then some really technical stuff that pops out of no where.  A hidden treasure between New Haven and Hartford",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2014/04/mobile-1396542173-0.jpg",
+          "rank": null,
+          "rating": 4
+        },
+        {
+          "name": "Wadsworth Falls State Park",
+          "unique_id": "2-3700",
+          "place_id": 15787,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3700",
+          "attribs": {
+            "\"length\"": "\"5\""
+          },
+          "description": "Spend a summer day cooling off in the mist of the waterfall or an autumn day hiking or biking the varied trails of the park.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Kings Park",
+      "state": "New York",
+      "country": "United States",
+      "name": "Sunken Meadow State Park (Governor Alfred E. Smith)",
+      "parent_id": null,
+      "unique_id": 18321,
+      "directions": "Rte. 25A and Sunken Meadow Parkway&lt;br /&gt;Kings Park, NY 11754&lt;br /&gt;Phone: (631) 269-4333&lt;br /&gt;Secondary Phone: (631) 269-5351",
+      "lat": 40.904246,
+      "lon": -73.27519,
+      "description": "Offering one of the most stunning views of the Long Island Sound with Connecticut in the distance, Sunken Meadow State Park has a wide range of topography that sustains a variety of flora and fauna. The three miles of beach meets tall, glacier-formed bluffs at the west end of the shoreline. A man-made dam separates the park's brackish creek and marshes from the tidal flats. South of the flats are acres of undeveloped and heavily wooded rolling hills.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Sunken Meadow State Park (Governor Alfred E. Smith)",
+          "unique_id": "2-4949",
+          "place_id": 18321,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4949",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "The park is the northern terminus of the Long Island Greenbelt trail for hiking.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "North Haven",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Quinnipiac River State Park",
+      "parent_id": null,
+      "unique_id": 15758,
+      "directions": "From I-91 northbound: take exit 11.  Take a left off the exit onto Route 22.  Turn right onto State Street.  Turn right onto Banton Street.  Parking area is .3 mile on the left.  Canoe launch is on the right, behind the Mobil station.",
+      "lat": 41.398475,
+      "lon": -72.868781,
+      "description": "The Quinnipiac River flows 38 miles from its headwaters in Plainville to its mouth in New Haven. Nearly six of those miles and 323 acres of floodplain are protected in this park, which is an assemblage of four sections. The most accessible of these is the southernmost which is crossed by Connecticut's blue blazed trail system.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Quinnipiac River State Park",
+          "unique_id": "2-3685",
+          "place_id": 15758,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3685",
+          "attribs": {
+            "\"length\"": "\"4\""
+          },
+          "description": "Four miles of the 24 mile blue blazed Quinnipiac Trail passes through the Park. Sometimes following the river bank, sometimes somewhat upland, the trial leads north/south from Toelles Road (north) to the barred gate access at the abandoned Banton Street (south). Since it is an active floodplain, the forest floor can be seasonally muddy and the river's many cutoff meanders (oxbows) inundated.",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Watertown",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Black Rock State Park",
+      "parent_id": null,
+      "unique_id": 15799,
+      "directions": "From Route 8 north:  take Exit 38.  Turn left at the end of the exit ramp to first traffic light.  Turn left at traffic light onto US Route 6 west.  Park entrance is a 1/2 mile on the right on US Route 6.",
+      "lat": 41.653004,
+      "lon": -73.095458,
+      "description": "Black Rock offers excellent swimming, hiking, scenic views, and Indian legend all tucked into the scenic rolling hills of the Western Highlands.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Black Rock State Park",
+          "unique_id": "2-3638",
+          "place_id": 15799,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3638",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Excellent hiking is available on the Mattatuck Trail from the Grey Stone section of Waterbury to the Wigwam Reservoir in Morris. This trail offers a scenic view of the Naugatuck Valley, highlighting Black Rock. There are many side trails where one can see Black Rock Lake, Black Rock Pond, mature forests and meadows. Hikes can be from 30 minutes to all day.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2013/07/12660-1.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "North Abington Township",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Archbald Pothole State Park",
+      "parent_id": null,
+      "unique_id": 18934,
+      "directions": "Archbald Pothole is in Lackawanna County, nine miles north of Scranton. The park is easily reached from Interstate 81. Take Exit 191A to Business US 6 east towards Carbondale. The park entrance is six miles on the right.",
+      "lat": 41.534244,
+      "lon": -75.736025,
+      "description": "Archbald Pothole State Park is a 150-acre park in northeastern Pennsylvania. The park is named for Archbald Pothole, a geologic feature that formed during the Wisconsin Glacial Period, around 15,000 years ago. The pothole is 38 feet deep and has an elliptical shape. The diameter of the pothole decreases downward. The largest diameter is 42 feet by 24 feet. At the bottom it is 17 feet by 14 feet. The pothole has a volume of about 18,600 cubic feet, so could hold about 140,000 gallons. It would take 35 fire truck tankers to fill the pothole.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Archbald Pothole State Park",
+          "unique_id": "2-5331",
+          "place_id": 18934,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5331",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "A small loop trail starting at the wayside follows an old coal mine tram road passed rock ledges and through a forest.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Helmetta",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Jamesburg Park Conservation Area",
+      "parent_id": null,
+      "unique_id": 24556,
+      "directions": "From Route 130:&lt;br /&gt;· Turn East onto Davidsons Mill Road&lt;br /&gt;· Turn left onto Cranbury/South River Road (County Road)&lt;br /&gt;· Turn right  at the traffic light onto Helmetta Blvd&lt;br /&gt;· Slow your speed as you enter the town of Helmetta&lt;br /&gt;· Turn right onto Maple Avenue&lt;br /&gt;· Park will be on your right hand side",
+      "lat": 40.376879,
+      "lon": -74.424927,
+      "description": "Jamesburg Park Conservation Area was some of the first lands that Middlesex County acquired using Green Acres funding for open space protection in the early 1970's.  It protects both the underground resources of the Old Bridge Sands aquifer, and a unique pine barrens habitat in Middlesex County. Jamesburg Park Conservation Area lies within the Spotswood Outlier-the northernmost area of New Jersey Pine Barrens habitat.  Along the several miles of trails you can find typical Pine Barrens species-pitch pine trees, blueberries, huckleberries and post oaks.  The wetlands protect  Atlantic white cedar trees and carnivorous pitcher plants.  Several endangered and threatened species of plants and animals have been observed in this preserved open space.  Parking, portable restrooms, picnic tables and a playground can be found at Helme Mill Park on Maple Street in Helmetta.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Jamesburg Park Conservation Area",
+          "unique_id": "2-8290",
+          "place_id": 24556,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=8290",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "There are many old, unmarked trails.  For your safety-please stay on the marked trails.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "jamesburg",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Thompson park",
+      "parent_id": null,
+      "unique_id": 2670,
+      "directions": "Start by the natural spring trail",
+      "lat": 40.32899,
+      "lon": -74.43409,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Thompson Park: Jamesburg",
+          "unique_id": "1-5209",
+          "place_id": 2670,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=5209",
+          "attribs": {
+            "\"length\"": "\"5\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Mix of singletrack and fire roads but many great trails throughout.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Roscoe",
+      "state": "New York",
+      "country": "United States",
+      "name": "Beaverkill",
+      "parent_id": null,
+      "unique_id": 12459,
+      "directions": "From NYC: NY 17 West to Exit 94; turn left off ramp to NY 206 West; drive 3 miles on NY 206 West; turn right onto Beaverkill Road; drive 4 miles on Beaverkill Road to a Y intersection; turn right on to Berrybrook Road (note: Right hand turn is very east to miss. The road goes up a hill and kicks back at an awkward angle); drive 1 mile to the campground entrance on the right. From Western NY: NY 17 East to Exit 94; turn left off ramp; go 1/10 mile and turn left at the traffic light onto NY 206 West; turn right onto Beaverkill Road; drive 4 miles on Beaverkill Road to a Y intersection; turn right on to Berrybrook Road Spur; drive 1 mile to the campground entrance on the right.",
+      "lat": 41.977219,
+      "lon": -74.839592,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Beaverkill",
+          "unique_id": "3-6876",
+          "place_id": 12459,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=6876",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Description:  Beaverkill Campground is located on the Beaverkill River, known as one of the best trout streams in the nation. The park&amp;amp;#39;s picnic area is located next to a 150-year-old covered bridge. This is an ideal place to come fish, picnic, or just relax.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2011/06/6876-1307134189-0.jpg",
+          "rank": null,
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Hackensack River County Park",
+      "parent_id": null,
+      "unique_id": 23719,
+      "directions": "Hackensack Avenue, Hackensack",
+      "lat": 40.908632,
+      "lon": -74.028647,
+      "description": "Hackensack River County Park stretches over 28 acres of land along the Hackensack River in the northern section of Hackensack.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Hackensack River County Park",
+          "unique_id": "2-7677",
+          "place_id": 23719,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7677",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Walking trails &amp; boardwalk.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "West Bay Shore",
+      "state": "New York",
+      "country": "United States",
+      "name": "Gardiner County Park",
+      "parent_id": null,
+      "unique_id": 23373,
+      "directions": "The park entrance is south of Montauk Highway (Route 27A), about one-half mile east of the Robert Moses Causeway.",
+      "lat": 40.700963,
+      "lon": -73.276684,
+      "description": "Originally owned by the Gardiner family, Suffolk's first non-native landowners, and later part of the historic Sagtikos Manor Estate, Gardiner County Park is now a 231 acre nature-oriented public park on the Great South Bay.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Gardiner County Park",
+          "unique_id": "2-7321",
+          "place_id": 23373,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7321",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Great trails.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Flanders",
+      "state": "New York",
+      "country": "United States",
+      "name": "Hubbard County Park",
+      "parent_id": null,
+      "unique_id": 23381,
+      "directions": "From Long Island Expressway: Take exit 71.  Follow Route 24 East .  Continue past traffic circle.  Cross over Rte 105.  After you pass Spinney Road on your Right, the entrance to Hubbard County park for the press event will be on your left hand side.  Look for &quot;Press Event&quot; sign.",
+      "lat": 40.902372,
+      "lon": -72.564155,
+      "description": "This 1,815 acre park is a land of transitions complimented by beach grass extending under pine tree canopy and prairie grasses abutting salt marsh. An array of wildlife can be found, to include clams, scallops, blue heron, osprey, and a variety of turtles and reptiles.  While enjoying the beautiful sights of the park today, you also find yourself enveloped in a land with a 10,000 year heritage starting with the Native American Shinnecock Nation extending to the Town of Southampton as farmland through a period of use as hunting land where remains of duck blinds and tools can still be found along the trails.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Hubbard County Park",
+          "unique_id": "2-7452",
+          "place_id": 23381,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=7452",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Beautiful area for hiking.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Monroe",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Monroe Rail Trail",
+      "parent_id": null,
+      "unique_id": 1127,
+      "directions": "Coming from Newtown, turn left at first light after crossing into Monroe onto Pepper Street.  Turn left onto Cutlers Farm Road and parking is on the left.&lt;br /&gt;Coming from Trumbull, turn right onto Pepper Street in Upper Stepney section of Monroe.  Follow until you come to Cutlers Farm Road and turn right, then left into the Parking Lot",
+      "lat": 41.34716,
+      "lon": -73.25324,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Monroe Rail Trail",
+          "unique_id": "1-2040",
+          "place_id": 1127,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=2040",
+          "attribs": {
+            "\"length\"": "\"8\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Rail Trail.  Some Single Track branching off but nothing but little outtakes.  Fun for family riding.",
+          "length": 8,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Island Park",
+      "state": "Idaho",
+      "country": "United States",
+      "name": "Harriman State Park",
+      "parent_id": null,
+      "unique_id": 16281,
+      "directions": "3489 Green Canyon Rd&lt;br /&gt;Island Park, ID 83429&lt;br /&gt;208-558-7368",
+      "lat": 41.224578,
+      "lon": -74.113611,
+      "description": "Owned by Union Pacific Railroad investors from 1902 to 1977, the park acreage served as a cattle ranch and private retreat for the Harriman and Guggenheim families. Today, Harriman State Park provides visitors a perfect setting to enjoy the unique history and natural beauty of the area.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Harriman State Park",
+          "unique_id": "2-3901",
+          "place_id": 16281,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3901",
+          "attribs": {
+            "\"length\"": "\"20\""
+          },
+          "description": "Harriman State Park offers over 20 miles of trails for hiking, biking, and equestrian use. Trailheads are located at the Visitor Center, Ranchview, Sage Flat, and north gate.",
+          "length": 20,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        },
+        {
+          "name": "Harriman State Park",
+          "unique_id": "3-5071",
+          "place_id": 16281,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=5071",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Harriman State Park of Idaho lies within an 11,000-acre wildlife refuge in the greater Yellowstone Ecosystem.    Known as one of the best fly-fishing streams in the nation, the Henrys Fork meanders for eight miles through Harriman.   Guests renting the facility can take part in all park programs including horseback riding, hiking, ranch tours, and fly-fishing on the famous Henry&amp;#39;s Fork. Winter at Harriman offers 24 miles of Nordic ski trails. Opportunities to view moose, elk, trumpeter swans, and waterfowl are abundant. Harriman State Park is located only 38 miles from Yellowstone National Park and 14 miles from spectacular Mesa Falls",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2011/04/5071-1301770181-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Huntington",
+      "state": "New York",
+      "country": "United States",
+      "name": "Caumsett State Historic Park Preserve",
+      "parent_id": null,
+      "unique_id": 18192,
+      "directions": "25 Lloyd Harbor Road&lt;br /&gt;Huntington, NY 11743",
+      "lat": 40.929661,
+      "lon": -73.470554,
+      "description": "Caumsett State Historic Park Preserve is located on a scenic peninsula extending into Long Island Sound. There are plenty of trails of horseback riding, jogging, cross-country skiing biking fun. The park is dotted with beautiful gardens and scenic views. Fishing and scuba diving are also very popular here.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Caumsett State Historic Park Preserve",
+          "unique_id": "2-4824",
+          "place_id": 18192,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4824",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "Caumsett State Historic Park Preserve is located on a scenic peninsula extending into Long Island Sound. There are plenty of trails of horseback riding, jogging, cross-country skiing biking fun. The park is dotted with beautiful gardens and scenic views. Fishing and scuba diving are also very popular here.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Tuckerton",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Bass River State Forest",
+      "parent_id": null,
+      "unique_id": 18083,
+      "directions": "Bass River State&lt;br /&gt;Forest is about 25 miles north of Atlantic City and six miles west of Tuckerton. Take the Garden State Parkway to exit 52 heading south and exit 50 heading north.",
+      "lat": 39.648476,
+      "lon": -74.329116,
+      "description": "Bass River State Forest was the first forest acquired by the state of New Jersey in 1905 for public recreation, water conservation, and wildlife and timber management. Lake Absegami, a 67-acre lake created in the 1930's, is the center of the forest's recreational activities and provides an area for swimming and a serene setting for boating and canoeing. A trail through the Absegami Natural Area wanders through a pine/oak woods and a small Atlantic white cedar bog",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Bass River State Forest",
+          "unique_id": "2-4778",
+          "place_id": 18083,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4778",
+          "attribs": {
+            "\"length\"": "\"63\""
+          },
+          "description": "Bass River State Forest has eight easy walking (non-ADA accessible) trails from 1 to 3.2 miles. The 1/2 mile self-guided Absegami Trail includes a wooden foot bridge with benches. All trails start at the second parking lot at the beach. Animals, birds and plant life of the Pine Barrens may be found. A trail brochure is available at the office, or on the portion of the Pink Trail that passes through the old Civilian Conservation Corps camp near East Greenbush Road.",
+          "length": 63,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        },
+        {
+          "name": "Bass River State Forest",
+          "unique_id": "3-8702",
+          "place_id": 18083,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=8702",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Bass River State Forest was the first forest acquired by the state of New Jersey in 1905 for public recreation, water conservation, and wildlife and timber management. Lake Absegami, a 67-acre lake created in the 1930's, is the center of the forest's recreational activities and provides an area for swimming and a serene setting for boating and canoeing. A trail through the Absegami Natural Area wanders through a pine/oak woods and a small Atlantic white cedar bog",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "city": "Torrington",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "John A. Minetto State Park",
+      "parent_id": null,
+      "unique_id": 15673,
+      "directions": "From the North: take Route 8 south, Exit 44 - (Route 4). Head west on Route 4, through Torrington, for 1½ miles to the junction of Route 272. Head north on Route 272 for about 4 miles. The park is located on the right of Route 272. Watch for the State Park shield sign.",
+      "lat": 41.883767,
+      "lon": -73.170999,
+      "description": "Summertime fishing or wintertime cross-country skiing make John A. Minetto State Park a four season fun spot.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Windham",
+      "state": "New York",
+      "country": "United States",
+      "name": "Windham Mountain",
+      "parent_id": null,
+      "unique_id": 13989,
+      "directions": null,
+      "lat": 42.298611,
+      "lon": -74.256774,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Windham Mountain",
+          "unique_id": "6-535",
+          "place_id": 13989,
+          "activity_type_id": 9,
+          "activity_type_name": "snow sports",
+          "url": "http://www.snowtoit.com/trail.php?c=73&i=535",
+          "attribs": {
+            "\"type\"": "\"Lift-serviced \\/ Resort\""
+          },
+          "description": "Windham Mountain is one of the largest resorts in the state of New York. It boasts 1,600 vertical feet, 265 skiable acres, 46 runs, and 2 terrain parks. 9 chair lifts and 2 surface lifts serve these trails, including 2 detachable high-speed quads. Windham has 98% snow making coverage, and their longest run is 2.37 miles.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T17:33:19Z",
+            "id": 9,
+            "name": "snow sports",
+            "updated_at": "2012-08-15T17:33:19Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "East Stroudsburg",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Timothy Lake North",
+      "parent_id": null,
+      "unique_id": 13038,
+      "directions": "None",
+      "lat": 41.118706,
+      "lon": -75.068328,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Timothy Lake North",
+          "unique_id": "3-7455",
+          "place_id": 13038,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=7455",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "Two of our most popular campgrounds, Timothy Lake North and Timothy Lake South offer something for everyone. A seasonal indoor waterpark is just part of our Mountain Top Lodge complex at Timothy Lake North, which contains an entertainment center and video arcade with prize redemption area. The amenity complex is one of the largest in the Outdoor World family of campgrounds with year round activities scheduled for guests of all ages. Live entertainment, a host of facilities and nearby day trips make Timothy Lake North and South close to all the fun. A selection of rental accommodations, beautiful campsites, and a friendly staff trained to help maximize your vacation experience are what you&amp;amp;#39;ll find when you include a stop along the way or settle in for your fun-filled camping vacation in the mountains. Timothy Lake South, located just one mile from Timothy Lake North, has a more relaxed atmosphere with an outdoor pool, play area and camper services center with a Members&amp;amp;#39; Lounge, laundry facility, General Store and Ranger Station. The South Campground is a favorite among members with longer rigs.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Trumbull",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Trumbull",
+      "parent_id": null,
+      "unique_id": 1123,
+      "directions": "From I-95, or the Merit Parkway(Rt.15) take the Rt 25 exit to exit 9 (Daniels Farm Road) If coming from the south-left at the top of the ramp, then first right, park in commuter lot. If coming from the north side of 25 same exit-go right off ramp and lot is in front of you.&lt;br /&gt;To get to the trail head, pedal out of the lot and turn left.  At the end of the cul-de-sac you will see a short climb through a rock wall and beyond that a kiosk.",
+      "lat": 41.25455,
+      "lon": -73.20317,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Pequonnock River Valley State Park / Trumbull",
+          "unique_id": "1-2033",
+          "place_id": 1123,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=2033",
+          "attribs": {
+            "\"length\"": "\"15\"",
+            "\"nightride\"": "null"
+          },
+          "description": "This place goes by many names, Trumbull, Old Mine Park, and Pequonnock River Valley.  Trumbull is an XC and Freeriding paradise.  The park is connects in the north to a three mile rail trail that if you head north connects to other greenways and single track giving the rider the potential for an epic ride.  <br /><br />Trumbull is also a Freerider's paradise with a number of drops ranging from 2-20 feet, including the picnic tables and lovers leap.  You will also find one of Connecticut's tallest rollers, the Green Monster, which is 30' high, as well as many other rollers strewn throughout the park.<br /><br />There are four marked trails:  Blue, along the Pequonnock River; White, down the center of the valley; Yellow, about half way up the ridge; and Red, goes along the ridge and has the most serious climbs.<br /><br />You haven't ridden in CT until you have ridden Trumbull!  Hunting is permitted here in the fall (except not on Sundays) so please where bright colors when riding from October 1st through December.",
+          "length": 15,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2009/trails/02/2033-1199668820.jpg",
+          "rank": null,
+          "rating": 4.57
+        },
+        {
+          "name": "Trumbull",
+          "unique_id": "2-863",
+          "place_id": 1123,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=863",
+          "attribs": {
+            "\"length\"": "\"15\""
+          },
+          "description": "Trumbull features 15 miles of hiking trails near Trumbull, CT.",
+          "length": 15,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Wilmington",
+      "state": "Delaware",
+      "country": "United States",
+      "name": "Brandywine State Park",
+      "parent_id": null,
+      "unique_id": 1162,
+      "directions": "From Delaware take 95 north to 202 north make a left at Damons restraunt park in the Jewish center parking lot trail head starts in the tree\\'s....",
+      "lat": 39.80992,
+      "lon": -75.55804,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Brandywine State Park",
+          "unique_id": "1-1331",
+          "place_id": 1162,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=1331",
+          "attribs": {
+            "\"length\"": "\"15\"",
+            "\"nightride\"": "null"
+          },
+          "description": "mostly single track great down hills as well as some steep uphill climbs lots of technical tree roots, downed trees, and stream crossing with rocks.",
+          "length": 15,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2013/08/mobile-1376151318-0.jpg",
+          "rank": null,
+          "rating": 4.75
+        },
+        {
+          "name": "Brandywine Creek State Park",
+          "unique_id": "2-1157",
+          "place_id": 1162,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=1157",
+          "attribs": {
+            "\"length\"": "\"15\""
+          },
+          "description": "Brandywine Creek State Park features 15 miles of hiking trails near Wilmington, DE.",
+          "length": 15,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Sussex",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "High Point State Park",
+      "parent_id": null,
+      "unique_id": 18098,
+      "directions": "Take Route 23 approximately 7 miles north of the town of Sussex, NJ, or 4 miles south of Port Jervis, NY.",
+      "lat": 41.277894,
+      "lon": -74.696296,
+      "description": "The view from High Point Monument, at 1,803 feet above sea level, is a spectacular panorama of rich farmland and forest, soft hills and lush valleys in three states. The blue line of the Delaware River divides the verdant ridges of New Jersey from those of Pennsylvania. High Point offers superb trails for hikers and skiers and quiet spots for campers and anglers. The land for High Point State Park, donated by Colonel Anthony R. and Susie Dryden Kuser, was dedicated as a park in 1923. The pleasant landscaping was designed by the Olmsted Brothers of Boston, a prominent landscape architectural firm of that time. The brothers were the sons of the eminent Frederick Law Olmsted, who designed Central Park.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "High Point State Park",
+          "unique_id": "2-4787",
+          "place_id": 18098,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=4787",
+          "attribs": {
+            "\"length\"": "\"50\""
+          },
+          "description": "With over 50 miles of trails, High Point State Park offers visitors a variety of trail options throughout the year, Designated multiple-use trails are available for hiking, mountain biking, horseback riding, cross country skiing, snowshoeing, dogsledding and snowmobiling. Trails vary in length from one half-mile to 18 miles and take visitors through unique and diverse landscapes including an Atlantic white cedar swamp, mountain ridge tops with 360-degree views, dense forests, fields and wetlands.",
+          "length": 50,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 5
+        },
+        {
+          "name": "High Point State Park",
+          "unique_id": "3-8706",
+          "place_id": 18098,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=8706",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "The view from High Point Monument, at 1,803 feet above sea level, is a spectacular panorama of rich farmland and forest, soft hills and lush valleys in three states. The blue line of the Delaware River divides the verdant ridges of New Jersey from those of Pennsylvania. High Point offers superb trails for hikers and skiers and quiet spots for campers and anglers. The land for High Point State Park, donated by Colonel Anthony R. and Susie Dryden Kuser, was dedicated as a park in 1923. The pleasant landscaping was designed by the Olmsted Brothers of Boston, a prominent landscape architectural firm of that time. The brothers were the sons of the eminent Frederick Law Olmsted, who designed Central Park.",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "city": "Trumbull",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Trumbull Rail Trail",
+      "parent_id": null,
+      "unique_id": 1146,
+      "directions": "Take Route 25 (North) to Rte 127, White Plains Road.  Head North towards the center of town.  Past the light at the intersection of Daniels Farm Road, take first right onto Taits Mill Rd and look for parking on this street.  Trail head is a few hundred yards up the road. ",
+      "lat": 41.28005,
+      "lon": -73.22226,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Trumbull Rail Trail",
+          "unique_id": "1-2394",
+          "place_id": 1146,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=2394",
+          "attribs": {
+            "\"length\"": "\"6\"",
+            "\"nightride\"": "null"
+          },
+          "description": "First section of the rail trail, 3 miles, is unpaved.  Next 3 miles is paved and there are plans to continue the trail to the Monroe Town line but there is a missing bridge which is barring the way at the moment.<br /><br />Good place to ride with the kids.",
+          "length": 6,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2009/trails/02/2394-1196126048.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Monroe",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Thompson Park Conservation Area",
+      "parent_id": null,
+      "unique_id": 24559,
+      "directions": "Prospect Plains Road, Monroe Township",
+      "lat": 40.338102,
+      "lon": -74.441189,
+      "description": "The Thompson Park Conservation Area was saved through the cooperative efforts of the Middlesex County Board of Chosen Freeholders, the Township of Monroe and the State of NJ, Green Acres Program. The initial purchase of land from the Bank of China was in July of 2000 and additional properties are continually added to this remarkable area. The series of County land parcels total 925-acres. Combined with the existing 675-acre Thompson Park and 335-acres of adjacent State owned land, the total preserved open space in this part of Monroe Township is nearly 2000 acres.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Thompson Park Conservation Area",
+          "unique_id": "2-8444",
+          "place_id": 24559,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=8444",
+          "attribs": {
+            "\"length\"": "\"0\""
+          },
+          "description": "The Thompson Park Conservation Area offers passive activities such as hiking, walking, bird watching and photography. With nearly 9 miles of trails in the area, hikers can enjoy a short stroll or string together a longer hike. The Gravel Hill Trail is accessed from the parking area at the Monroe Township Soccer Complex on Prospect Plains Road.   Alternatively, hikers can park in Thompson Park and connect to the Gravel Hill Trail just south of Schoolhouse Road. Parking and portable restrooms are available at both trailheads.",
+          "length": 0,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Prompton",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Prompton Lake",
+      "parent_id": null,
+      "unique_id": 21858,
+      "directions": "From Scranton, east on US 6 through Honesdale, north on PA 170 to project.",
+      "lat": 41.621593,
+      "lon": -75.347006,
+      "description": "Prompton Lake - A 526-acre project, having a 290-acre lake. Except for a single boat launch, there is no Corps-operated recreation. Swimming is not permitted. Boating is permitted, although there is a 10-hp limit. Picnicking and hiking are available, as is hunting, in season, on adjacent PA Game Commission-managed lands. Majority of land surrounding the lake is owned by the Commonwealth of PA, and is designated as Prompton State Park. Presently undeveloped.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Farmingville",
+      "state": "New York",
+      "country": "United States",
+      "name": "Glacial Ridge Preserve",
+      "parent_id": null,
+      "unique_id": 2865,
+      "directions": "Take 495 to Exit 63 Ocean Ave. (North), follow to Bicycle Path Road and make a right, go to Independance Hill Drive and make a left (Town of Brookhaven Town Hall), go to the end and park near the windmill, trail entrance is to the left of the low white building (mulched path leads to trail head/kiosk).",
+      "lat": 40.84573,
+      "lon": -73.01471,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Glacial Ridge Preserve",
+          "unique_id": "1-1782",
+          "place_id": 2865,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=1782",
+          "attribs": {
+            "\"length\"": "\"11\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Very narrow and tight turns.  Intermediate to advance singletrack.  Some sandy fire roads.  Several diamonds with some awesome moguls.  You better have good slow speed handling skills.  The trail is new and is somewhat soft.  Needs to be packed down.  There are descent signs throughout.  Good short workout.&lt;br /&gt;<br />&lt;br /&gt;<br />Update: Stay off closed section (East side) which was routed on private property.  Closed section is clearly marked and blocked.",
+          "length": 11,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2014/05/002.jpg",
+          "rank": null,
+          "rating": 4.44
+        }
+      ]
+    },
+    {
+      "city": "Tobyhanna",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Lakeside Trail",
+      "parent_id": null,
+      "unique_id": 3233,
+      "directions": "Start at Tobyhanna State park, which is found on PA Rt 423 about 2.5 from is &lt;br /&gt;&lt;br /&gt;interchange with I-380.",
+      "lat": 41.20438,
+      "lon": -75.40257,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Lakeside Trail",
+          "unique_id": "1-4126",
+          "place_id": 3233,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=4126",
+          "attribs": {
+            "\"length\"": "\"5\"",
+            "\"nightride\"": "null"
+          },
+          "description": "This a circular trail around Tobyhanna Lake. Great views of the lake at the start &lt;br /&gt;<br />and end of the ride with a wooded section between. Improved trail, fairly flat &lt;br /&gt;<br />and fast.&lt;br /&gt;<br />&lt;br /&gt;<br />The Lakeside Trail starts and finishes in the main parking lot and can be easily &lt;br /&gt;<br />found by following blue blazes.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Sharon",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "Housatonic Meadows State Park",
+      "parent_id": null,
+      "unique_id": 15664,
+      "directions": "From the North - Great Barrington or Pittsfield, MA areas: travel south on Route 7 into Sharon, CT. The park is located along Route 7 in the Town of Sharon approximately 3 miles south of the West Cornwall Covered Bridge and approximately 2 miles north of the intersection with Route 4.",
+      "lat": 41.83233,
+      "lon": -73.383985,
+      "description": "Camping under the tall pines on the riverbank at Housatonic Meadows evokes a genuine back-to-nature feeling.  The clear, cold river water also provides a fine opportunity for fly fishermen to test their skills on trout and bass.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Housatonic Meadows State Park",
+          "unique_id": "2-3658",
+          "place_id": 15664,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3658",
+          "attribs": {
+            "\"length\"": "\"5\""
+          },
+          "description": "Great trails for hiking.",
+          "length": 5,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        },
+        {
+          "name": "Housatonic Meadows State Park",
+          "unique_id": "3-4180",
+          "place_id": 15664,
+          "activity_type_id": 6,
+          "activity_type_name": "camping",
+          "url": "http://www.tripleblaze.com/trail.php?c=2&i=4180",
+          "attribs": {
+            "\"length\"": "\"3\""
+          },
+          "description": "The Housatonic Meadows Campground is open for the 2012 season from May 18 - May 20, then reopening May 25 through October 8. Walk-ins only allowed September 4 - October 8.  (Due to toilet building renovations the campground will not be open in April.)",
+          "length": 3,
+          "activity_type": {
+            "created_at": "2012-08-15T17:31:31Z",
+            "id": 6,
+            "name": "camping",
+            "updated_at": "2012-08-15T17:31:31Z"
+          },
+          "thumbnail": "http://images.tripleblaze.com/2011/03/4180-1299897125-0.jpg",
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Reading",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Nolde Forest Environmental Education Center",
+      "parent_id": null,
+      "unique_id": 19005,
+      "directions": "Nolde Forest is in Berks County, Pennsylvania, on PA 625, two miles south of PA 724 or three miles north of PA 568.",
+      "lat": 40.27248,
+      "lon": -75.960712,
+      "description": "Nolde Forest Environmental Education Center lies in the Nolde Forest State Park. Fishing and cross-country skiing are avilable to visitors here!",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Nolde Forest Environmental Education Center",
+          "unique_id": "2-5313",
+          "place_id": 19005,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5313",
+          "attribs": {
+            "\"length\"": "\"10\""
+          },
+          "description": "Nolde Forest Environmental Education Center lies in the Nolde Forest State Park. Fishing and cross-country skiing are avilable to visitors here! There are five trails here that are, for the most part, an easy hike and add up to 10 miles all in all.",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Philadelphia",
+      "state": null,
+      "country": "Pennsylvania",
+      "name": "Pennypack Trail",
+      "parent_id": null,
+      "unique_id": 13919,
+      "directions": "From I-95 North or South, exit at Academy/Linden Roads Exit and follow signs toward Academy Road;drive to second light and turn left at Willits Road. Follow Willits Road West until it turns into Welsh Road and intersects Route 1/Roosevelt Blvd. Cross Roosevelt and stay on Welsh Road until it meets Veree Road, and turn left on Veree. Follow Veree until it reaches the park, which will be seen after a school on the left and a conservation center on the right. Veree Bridge will cross over Pennypack Creek, where you can turn left into one of many parking areas around the creek.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Mapquest or Google Pennypack Park for better directions from all locations.",
+      "lat": 40.085747,
+      "lon": -75.060337,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Boonton",
+      "state": "New Jersey",
+      "country": "United States",
+      "name": "Tourne Park",
+      "parent_id": null,
+      "unique_id": 2665,
+      "directions": "From I80, take Denville exit to Rt 46e. Go 1 mile and make a left on Boulevard. Go about 2 miles to Boonton and bear left on County Rd 618. Make a quick left on McCaffrey La. Park in Dirt lot on right.",
+      "lat": 40.90738,
+      "lon": -74.43272,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Tourne Park",
+          "unique_id": "1-3710",
+          "place_id": 2665,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=3710",
+          "attribs": {
+            "\"length\"": "\"4\"",
+            "\"nightride\"": "null"
+          },
+          "description": "This route started by riding from Denville on the paved bike path on Blvd.&lt;br /&gt;<br />The GPS data here covers pretty much all the good singletrack in the park.",
+          "length": 4,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 3.33
+        }
+      ]
+    },
+    {
+      "city": "Monroe",
+      "state": "New York",
+      "country": "United States",
+      "name": "Goose Pond",
+      "parent_id": null,
+      "unique_id": 2828,
+      "directions": "You can find detailed directions at http://www.HudsonValleyMTB.Com in the &quot;Places To Ride&quot; forum. Click on &quot;Hudson Valley Single Track&quot;. There is a link back to this site under &quot;Most Popular Data Bases&quot; so you continue surfing SingleTracks.Com ",
+      "lat": 41.34561,
+      "lon": -74.22671,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Goose Pond",
+          "unique_id": "1-900",
+          "place_id": 2828,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=900",
+          "attribs": {
+            "\"length\"": "\"20\"",
+            "\"nightride\"": "null"
+          },
+          "description": "You can find a detailed description at http://www.HudsonValleyMTB.Com in the &quot;Places To Ride&quot; forum. Click on &quot;Hudson Valley Single Track&quot;. There is a link back to this site under &quot;Most Popular Data Bases&quot; so you continue surfing SingleTracks.Com ",
+          "length": 20,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": "http://images.singletracks.com/2012/09/cdv_photo_002-27.jpg",
+          "rank": null,
+          "rating": 3.83
+        },
+        {
+          "name": "Goose Pond",
+          "unique_id": "2-1688",
+          "place_id": 2828,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=1688",
+          "attribs": {
+            "\"length\"": "\"20\""
+          },
+          "description": "Goose Pond features 20 miles of hiking trails near Monroe, NY.",
+          "length": 20,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Graymoor",
+      "state": "New York",
+      "country": "United States",
+      "name": "Appalachian Trail 112: Canopus Hill Road to NY 301",
+      "parent_id": null,
+      "unique_id": 5767,
+      "directions": "ny",
+      "lat": 41.399625,
+      "lon": -73.87679,
+      "description": null,
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Appalachian Trail 112: Canopus Hill Road to NY 301",
+          "unique_id": "2-2470",
+          "place_id": 5767,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=2470",
+          "attribs": {
+            "\"length\"": "\"7\""
+          },
+          "description": "Section 112 of the Appalachian Trail runs 7.4 miles from Canopus Hill Road to NY Hwy 301.",
+          "length": 7,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": "Babylon",
+      "state": "New York",
+      "country": "United States",
+      "name": "Captree State Park",
+      "parent_id": null,
+      "unique_id": 18190,
+      "directions": "Captree State Park 3500 E. Ocean Parkway Babylon, NY 11702",
+      "lat": 40.639684,
+      "lon": -73.260098,
+      "description": "Captree State Park is home to the largest public fishing fleet on Long Island. Fishers, picnickers, sightseers and scuba divers love this park. Two large fishing piers are available for public use. There is also a full service restaurant at the park for your convenience. A boat launch is also available. No pets allowed.",
+      "date_created": null,
+      "children": [],
+      "activities": []
+    },
+    {
+      "city": "Southbury",
+      "state": "Connecticut",
+      "country": "United States",
+      "name": "George C. Waldo State Park",
+      "parent_id": null,
+      "unique_id": 15642,
+      "directions": "From the intersection of Routes 6 and 67 in Southbury, follow Route 67 (Roxbury Road) west for 2 miles and turn left (south) on Route 172. Follow Route 172 south for 2.1 miles and turn right (west) onto Spruce Brook Road. Follow Spruce Brook Road for 1.25 miles and bear left at the intersection onto Stilson Road. Follow Stilson for 0.6 miles to its end and turn left (south) onto Purchase Brook Road. The park entrance is 1.3 miles south of Stilson on the right (west).",
+      "lat": 41.464325,
+      "lon": -73.285741,
+      "description": "George Waldo State Park enjoys 150 acres of undeveloped, topographically diverse land in southwest Connecticut.  A trail of about 7/10 mile leads from Purchase Brook Road to the shore of Lake Lillinonah, drops 140 feet across its length and passes through mixed deciduous and coniferous total forest cover to the water's edge.  Look for wetlands by the trailhead and stone walls away from the trail.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "George C Waldo St Park",
+          "unique_id": "1-4511",
+          "place_id": 15642,
+          "activity_type_id": 5,
+          "activity_type_name": "mountain biking",
+          "url": "http://www.singletracks.com/item.php?c=1&i=4511",
+          "attribs": {
+            "\"length\"": "\"7\"",
+            "\"nightride\"": "null"
+          },
+          "description": "Once you park, go through the gate and the red trail starts on the left shortly &lt;br /&gt;<br />&lt;br /&gt;&lt;br /&gt;<br />after you go into the lane, follow the red marked trail.   The trees are well &lt;br &lt;br /&gt;<br />/&gt;&lt;br /&gt;<br />marked both directions. ",
+          "length": 7,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:35Z",
+            "id": 5,
+            "name": "mountain biking",
+            "updated_at": "2012-08-15T16:12:35Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 4.67
+        },
+        {
+          "name": "George C. Waldo State Park",
+          "unique_id": "2-3651",
+          "place_id": 15642,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=3651",
+          "attribs": {
+            "\"length\"": "\"1\""
+          },
+          "description": "Look for wetlands by the trailhead and stone walls away from the trail.",
+          "length": 1,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    },
+    {
+      "city": null,
+      "state": "Pennsylvania",
+      "country": "United States",
+      "name": "Gouldsboro State Park",
+      "parent_id": null,
+      "unique_id": 18966,
+      "directions": "The Gouldsboro State Park entrance is a half-mile south of the village of Gouldsboro on PA 507. PA 507 intersects with I-380 at Exit 13, two miles south of the park entrance, and with I-84, 13 miles north of the park entrance.",
+      "lat": 41.20456,
+      "lon": -75.46072,
+      "description": "Gouldsboro State Park  contains 2,800 acres of land and is home to the 250-acre Gouldsboro Lake. It is has hiking, mountain biking, swimming, boating, fishing, and skiing and is nearby Tobyhanna State Park.",
+      "date_created": null,
+      "children": [],
+      "activities": [
+        {
+          "name": "Gouldsboro State Park",
+          "unique_id": "2-5286",
+          "place_id": 18966,
+          "activity_type_id": 2,
+          "activity_type_name": "hiking",
+          "url": "http://www.tripleblaze.com/trail.php?c=3&i=5286",
+          "attribs": {
+            "\"length\"": "\"10\""
+          },
+          "description": "Gouldsboro State Park  contains 2,800 acres of land and is home to the 250-acre Gouldsboro Lake. The rugged terrain here provides for chaallenging hiking but with three trails there is variety enough to pick-and-choose your battles.",
+          "length": 10,
+          "activity_type": {
+            "created_at": "2012-08-15T16:12:21Z",
+            "id": 2,
+            "name": "hiking",
+            "updated_at": "2012-08-15T16:12:21Z"
+          },
+          "thumbnail": null,
+          "rank": null,
+          "rating": 0
+        }
+      ]
+    }
+  ]
+}
